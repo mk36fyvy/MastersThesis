@@ -55,9 +55,17 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}Non-cooperative enzymes do not entail bistable systems}{9}{section.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}cooperative enzyme case}{9}{section.3.2}%
+\contentsline {section}{\numberline {3.2}Bistability on a non-cyclic nucleosome string}{9}{section.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Bivalency}{10}{section.3.3}%
+\contentsline {section}{\numberline {3.3}Bistability on a cyclic nucleosome string}{9}{section.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.1}Achieving bistability/Probability of bivalency}{9}{subsection.3.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.2}Influence of dissociation rate on system's noise}{10}{subsection.3.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3.3}The boundaries of bistability}{10}{subsection.3.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Bivalency}{10}{section.3.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Discussion}{11}{chapter.4}%
 \defcounter {refsection}{0}\relax 

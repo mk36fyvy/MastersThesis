@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.15)  12 JAN 2021 13:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.15)  12 JAN 2021 14:34
 entering extended mode
 **e:/Users/mikre/Dropbox/MasterThesis/Thesis/main.tex
 (e:/Users/mikre/Dropbox/MasterThesis/Thesis/main.tex
@@ -1398,7 +1398,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./images//logo-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//logo-eps-converted-to.pdf, id=159, 339.2675pt x 142.5325pt>
+<images//logo-eps-converted-to.pdf, id=175, 339.2675pt x 142.5325pt>
 File: images//logo-eps-converted-to.pdf Graphic file (type pdf)
 <use images//logo-eps-converted-to.pdf>
 Package pdftex.def Info: images//logo-eps-converted-to.pdf  used on input line 58.
@@ -1422,14 +1422,14 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 7.
 Package tocbasic Info: Using my definition of `\numberline' on input line 10.
 Package tocbasic Info: Using my definition of `\numberline' on input line 36.
 Package tocbasic Info: Using my definition of `\numberline' on input line 54.
-Package tocbasic Info: Using my definition of `\numberline' on input line 62.
-Package tocbasic Info: Using my definition of `\numberline' on input line 72.
+Package tocbasic Info: Using my definition of `\numberline' on input line 70.
  [5
 
 ]
-Package tocbasic Info: Using my definition of `\numberline' on input line 74.
-Package tocbasic Info: Using my definition of `\numberline' on input line 76.
-Package tocbasic Info: Using my definition of `\numberline' on input line 78.
+Package tocbasic Info: Using my definition of `\numberline' on input line 80.
+Package tocbasic Info: Using my definition of `\numberline' on input line 82.
+Package tocbasic Info: Using my definition of `\numberline' on input line 84.
+Package tocbasic Info: Using my definition of `\numberline' on input line 86.
 )
 \tf@toc=\write6
 \openout6 = `main.toc'.
@@ -1439,7 +1439,7 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 78.
 
  (chapters/1theoreticalBackground.tex
 Chapter 1.
-<images//annotated_nucleosome.pdf, id=236, 503.8825pt x 280.04625pt>
+<images//annotated_nucleosome.pdf, id=256, 503.8825pt x 280.04625pt>
 File: images//annotated_nucleosome.pdf Graphic file (type pdf)
 <use images//annotated_nucleosome.pdf>
 Package pdftex.def Info: images//annotated_nucleosome.pdf  used on input line 77.
@@ -1479,7 +1479,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 189--199
 
  []
 
-<images//prov_fitnessLandscape.png, id=300, 629.35126pt x 459.7175pt>
+<images//prov_fitnessLandscape.png, id=320, 629.35126pt x 459.7175pt>
 File: images//prov_fitnessLandscape.png Graphic file (type png)
 <use images//prov_fitnessLandscape.png>
 Package pdftex.def Info: images//prov_fitnessLandscape.png  used on input line 212.
@@ -1494,17 +1494,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 206--225
                                                   
 l.225 ...\subsection{Enzyme types and bistability}
                                                   ]
-<images//vectorfield_noncooperative_assymetric_monostable_ac.pdf, id=310, 300.08452pt x 297.56746pt>
+<images//vectorfield_noncooperative_assymetric_monostable_ac.pdf, id=330, 300.08452pt x 297.56746pt>
 File: images//vectorfield_noncooperative_assymetric_monostable_ac.pdf Graphic file (type pdf)
 <use images//vectorfield_noncooperative_assymetric_monostable_ac.pdf>
 Package pdftex.def Info: images//vectorfield_noncooperative_assymetric_monostable_ac.pdf  used on input line 234.
 (pdftex.def)             Requested size: 124.62433pt x 123.579pt.
-<images//vectorfield_noncooperative_asymmetric_multistable.pdf, id=311, 278.33177pt x 297.56746pt>
+<images//vectorfield_noncooperative_asymmetric_multistable.pdf, id=331, 278.33177pt x 297.56746pt>
 File: images//vectorfield_noncooperative_asymmetric_multistable.pdf Graphic file (type pdf)
 <use images//vectorfield_noncooperative_asymmetric_multistable.pdf>
 Package pdftex.def Info: images//vectorfield_noncooperative_asymmetric_multistable.pdf  used on input line 239.
 (pdftex.def)             Requested size: 124.62433pt x 133.23665pt.
-<images//vectorfield_noncooperative_assymetric_monostable_me.pdf, id=312, 287.27464pt x 297.56746pt>
+<images//vectorfield_noncooperative_assymetric_monostable_me.pdf, id=332, 287.27464pt x 297.56746pt>
 File: images//vectorfield_noncooperative_assymetric_monostable_me.pdf Graphic file (type pdf)
 <use images//vectorfield_noncooperative_assymetric_monostable_me.pdf>
 Package pdftex.def Info: images//vectorfield_noncooperative_assymetric_monostable_me.pdf  used on input line 244.
@@ -1597,7 +1597,7 @@ Appendix B.
 
 ] (main.aux (chapters/1theoreticalBackground.aux) (chapters/2methods.aux) (chapters/3results.aux) (chapters/4discussion.aux) (chapters/5outlook.aux) (back/appendix_a.aux) (back/appendix_b.aux) (back/printbox.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C1C269934D5924AAB06B6FE1E9247BF1;5593.
+(rerunfilecheck)             Checksum: A49268B6CC6717028FBBFF19C9331B0C;6824.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -1607,17 +1607,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42371 strings out of 479663
- 790288 string characters out of 2873806
- 1677484 words of memory out of 3000000
- 58491 multiletter control sequences out of 15000+200000
+ 42378 strings out of 479663
+ 790391 string characters out of 2873806
+ 1677487 words of memory out of 3000000
+ 58494 multiletter control sequences out of 15000+200000
  481886 words of font info for 78 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  122i,16n,141p,1177b,2319s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (23 pages, 1394654 bytes).
+Output written on main.pdf (23 pages, 1397911 bytes).
 PDF statistics:
- 587 PDF objects out of 1000 (max. 8388607)
- 88 named destinations out of 1000 (max. 500000)
- 359 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 608 PDF objects out of 1000 (max. 8388607)
+ 92 named destinations out of 1000 (max. 500000)
+ 391 words of extra memory for PDF output out of 10000 (max. 10000000)
 
