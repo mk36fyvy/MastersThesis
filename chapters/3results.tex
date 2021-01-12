@@ -1,0 +1,121 @@
+\chapter{Results}
+    \label{cha:results}
+    %
+    \section{Non-cooperative enzymes do not entail bistable systems}
+        %
+        Considering a system without cooperative enzymes, that thus only contains enzymes with a context that includes the next neighbours at most, bistability can not be achieved. Indeed, fig. \ref{img:linearCase} discloses a monostable system, as the histogram shows an unimodal distribution throughout the simulation.\\ % Link to more simulation results in appendix?
+        %
+        \begin{figure}[htpb!]
+            \centering
+            % \includegraphics[width=0.7\textwidth]{}
+            \caption{Boring monostable case. The rule sets used the following enzymes: ? (Rates and additional runs can be found in Appendix.)}
+            \label{img:linearCase}
+        \end{figure}
+        %
+        Fig. \ref{img:linearCase} exemplarily shows that the total number of active and silent states ambulate around one same value. In fig. % TODO make figure
+        , one can see that even though the overall number of active and silent states changes over time, the overall order in the system stays invariant as the only enzymatic actions are taking place in between the two modification areas at their border. % TODO Discussion: In a case of symmetrical rule set rates, the border will always stay in the middle, because stochastics?
+        %
+        \begin{itemize}
+            {
+                \color{red}
+                \item Include a boring graph that does not change much. Emphasis on the histogram.  % _,.-^-.,_
+                \item Renew the graphs
+                    \begin{itemize}
+                        \item Gillespie time instead of step number on x-axis
+                        \item remove bivalency window where it isn't needed
+                        \item print (not plot) the total step number and indicate it in the caption
+                        \item remove title
+                    \end{itemize}
+                \item run the heat map plots on these in order to see if there are to areas or if they are homogeneously mixed
+            }
+        \end{itemize}
+        %
+        %
+    \section{cooperative enzyme case}
+        %
+        \begin{itemize}
+            {
+                \color{red}
+                        \item non-cyclic
+                            \begin{itemize}
+                                \item high vs. low dissociation rate
+                                \item Explain bistability and low frequency switching
+                            \end{itemize}
+                        \item cyclic
+                            \begin{itemize}
+                                \item case without switchings
+                                \item case with frequent switchings
+                                    \begin{itemize}
+                                        \item normal bistable
+                                        \item compare to lower reach
+                                    \end{itemize}
+                            \end{itemize}
+            }
+        \end{itemize}
+        %
+    %
+    %
+    \section{Bivalency} % TODO Should I include these  cases into the others above? Pro: I don't find anything ground-breaking here. Con: I have an entirely different system which might lead to confusion
+        %
+        \begin{itemize}
+            {
+                \color{red}
+                \item Here, we are at Kx+Ky
+                \item Two systems that either favour bivalency or total active/silent states
+                \item Frequent switching and bivalency
+            }
+        \end{itemize}
+        %
+    %
+    %
+    % \section{Impact of dissociation rate on amount of noise}
+    %     %
+
+    %     %
+    % %
+    % %
+    % \section{Bistability in EpiDynast}
+    %     %
+    %     \begin{itemize}
+    %         {
+    %             \color{red}
+    %             \item play with spacing and rates, dynamic spacing functionality added to program (pseudo-code in appendix or...)
+    %             \item Make enzyme reach smaller. What happens to the rapidly switching system?
+    %         }
+    %     \end{itemize}
+    %     %
+    % %
+    % %
+    % \section{(Bistability vs. Bivalency)}
+    %     %
+
+    %     %
+    % %
+    % %
+    % \section{Border effects in \ed}
+    %     %
+    %     \begin{itemize}
+    %         {
+    %             \color{red}
+    %             \item The process of bistable switchings
+    %             \item influential factors on bistable switching
+    %         }
+    %     \end{itemize}
+    %     %
+    % %
+    % %
+    % \section{(A memory capable system)}
+    %     %
+    %     \begin{itemize}
+    %         {
+    %             \color{red}
+    %             \item either as goal ("this is why I want to get more frequent switchings")
+    %             \item or as a means to analyze and apply statistics to switchings (many many runs)
+    %             \item I could also run with bigger time intervals)
+    %         }
+    %     \end{itemize}
+    %     %
+    % %
+    % %
+%
+%

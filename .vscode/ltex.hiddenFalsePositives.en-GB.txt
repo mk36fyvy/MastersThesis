@@ -1,0 +1,17 @@
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qlysine R-[:330,0.7]NH-[:30,0.7]( -[:330,0.7]( =[:270,0.5]O) -[:30,0.7]R') ( <:[:50,0.7]H) <[:110,0.7]-[:30,0.7]-[:330,0.7]-[:30,0.7]-[:330,.5,,1]NH_3^\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\Qlysine R-[:330,0.7]NH-[:30,0.7]( -[:330,0.7]( =[:270,0.5]O) -[:30,0.7]R') ( <:[:50,0.7]H) <[:110,0.7]-[:30,0.7]-[:330,0.7]-[:30,0.7]-[:330,.5,,1]NH_3^\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\Qacetylcoa CoA-[:330,0.7]S-[:30,0.7]( =[:90,0.5]O) -[:330,0.7]\\E$"}
+{"rule":"DOUBLE_PUNCTUATION","sentence":"^\\Qlysine R-[:330,0.7]NH-[:30,0.7]( -[:330,0.7]( =[:270,0.5]O) -[:30,0.7]R') ( <:[:50,0.7]H) <[:110,0.7]-[:30,0.7]-[:330,0.7]-[:30,0.7]-[:330,.5,,1]NH_3^\\E$"}
+{"rule":"NON_STANDARD_WORD","sentence":"^\\Qacetylcoa CoA-[:330,0.7]S-[:30,0.7]( =[:90,0.5]O) -[:330,0.7]\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\Qacetylcoa CoA-[:330,0.7]S-[:30,0.7]( =[:90,0.5]O) -[:330,0.7]\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\Qacetyllysine -[:330,0.7]NH-[:30,0.7]( -[:330,0.7]( =[:270,0.5]O) -[:30,0.7]) ( <:[:50,0.7]H) <[:110,0.7]-[:30,0.7]-[:330,0.7]-[:30,0.7]-[:330,0.7]NH-[:30,0.7]( -[:330,0.7]) =[:90,0.7]O\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\Qacetyllysine -[:330,0.7]NH-[:30,0.7]( -[:330,0.7]( =[:270,0.5]O) -[:30,0.7]) ( <:[:50,0.7]H) <[:110,0.7]-[:30,0.7]-[:330,0.7]-[:30,0.7]-[:330,0.7]NH-[:30,0.7]( -[:330,0.7]) =[:90,0.7]O\\E$"}
+{"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QThese proteins contain a great amount of the positively charged amino acids arginine (Arg, R) and lysine (Lys, K), which results in attracting the negatively charged DNA (phosphate backbone).\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q 0[,0] !lysine!acetylcoa [-90] !acetyllysineCoA-SHH^+ sth—- Apart from the acetyl group, a multitude of other markers have been found on histone tails, e.g. methylation (one-, two and three-fold), phosphorylation, ubiquitylation, etc.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QHere, we are at Kx+Ky Two systems that either favour bivalency or total active/silent states Frequent switching and bivalency Impact of dissociation rate on amount of noise.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QHere, we are at Kx+Ky Two systems that either favour bivalency or total active/silent states Frequent switching and bivalency\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q 0[,0] !lysineLysine!acetylcoaAcetyl-CoA [-90] !acetyllysineCoA-SHH^+ Acetylation of lysine.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qactive: Every PTM found on the concerning nucleosome enables gene activation.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qsilent: Every PTM found on the concerning nucleosome disables gene activation.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qbivalent: see \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Bivalency.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QIn other words, cooperativity can only be achieved by allowing the enzymes to detect more than one enzyme that, to reach bistability, must not be a direct neighbour of the nucleosome to be (un)modified in order to account for the modification that is prevalent at that moment.\\E$"}
