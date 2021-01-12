@@ -15,3 +15,4 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qsilent: Every PTM found on the concerning nucleosome disables gene activation.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qbivalent: see \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q Bivalency.\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QIn other words, cooperativity can only be achieved by allowing the enzymes to detect more than one enzyme that, to reach bistability, must not be a direct neighbour of the nucleosome to be (un)modified in order to account for the modification that is prevalent at that moment.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_GB","sentence":"^\\QExplain H3K27 and that I am reducing a nucleosome on that amino acid or two of them (in KxKy-system).\\E$"}
