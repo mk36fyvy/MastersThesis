@@ -21,7 +21,14 @@
 \RequirePackage{mol2chemfig}
 \RequirePackage{chemfig}
 
-
+%Make ((sub)sub)sections include their graphics without floating into next ((sub)sub)section.
+\usepackage{placeins}
+\let\Oldsection\section
+\renewcommand{\section}{\FloatBarrier\Oldsection}
+\let\Oldsubsection\subsection
+\renewcommand{\subsection}{\FloatBarrier\Oldsubsection}
+\let\Oldsubsubsection\subsubsection
+\renewcommand{\subsubsection}{\FloatBarrier\Oldsubsubsection}
 
 \graphicspath{{images/}}    % location of images and graphics
 \logofile{logo.eps}	% logo file = images/logo.eps (use \logofile{} for no logo)
@@ -43,7 +50,9 @@
 \dateofsubmission{2021}{02}{28}	% {YYYY}{MM}{DD}
 
 \advisor{Prof. Dr. Sonja Prohaska}	% optional
-\secondAdvisor{Prof. Dr. Peter Stadler}
+\secondAdvisor{Dr. Christian Arnold}
+
+\hyphenation{nuc-leo-some}
 
 %\strictlicense		%%% restrictive license instead of Creative Commons (discouraged!)
 

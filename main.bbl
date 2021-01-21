@@ -19,6 +19,40 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{bannister2011regulation}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a7ed4aa7677dbee7fff1e6d0e53b4cef}{%
+           family={Bannister},
+           familyi={B\bibinitperiod},
+           given={Andrew\bibnamedelima J},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=77aee3d508e8f682fcd024e7da96ad18}{%
+           family={Kouzarides},
+           familyi={K\bibinitperiod},
+           given={Tony},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{26112ee2bfe2be294bd57912a2ad9ed6}
+      \strng{fullhash}{26112ee2bfe2be294bd57912a2ad9ed6}
+      \strng{bibnamehash}{26112ee2bfe2be294bd57912a2ad9ed6}
+      \strng{authorbibnamehash}{26112ee2bfe2be294bd57912a2ad9ed6}
+      \strng{authornamehash}{26112ee2bfe2be294bd57912a2ad9ed6}
+      \strng{authorfullhash}{26112ee2bfe2be294bd57912a2ad9ed6}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cell research}
+      \field{number}{3}
+      \field{title}{Regulation of chromatin by histone modifications}
+      \field{volume}{21}
+      \field{year}{2011}
+      \field{pages}{381\bibrangedash 395}
+      \range{pages}{15}
+    \endentry
     \entry{berg2015stryer}{book}{}
       \name{author}{3}{}{%
         {{hash=4c776af3b9be9917165e6fc1ce45b873}{%
