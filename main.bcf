@@ -163,7 +163,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortingtemplatename</bcf:key>
-      <bcf:value>nty</bcf:value>
+      <bcf:value>none</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortsets</bcf:key>
@@ -2391,59 +2391,57 @@
     <bcf:citekey order="4">berg2015stryer</bcf:citekey>
     <bcf:citekey order="5">berg2015stryer</bcf:citekey>
     <bcf:citekey order="6">bannister2011regulation</bcf:citekey>
-    <bcf:citekey order="7">schuettengruber2017genome</bcf:citekey>
-    <bcf:citekey order="8">lemons1908paper</bcf:citekey>
-    <bcf:citekey order="9">mayer2020langevin</bcf:citekey>
-    <bcf:citekey order="10">gillespie1976general</bcf:citekey>
-    <bcf:citekey order="10">gillespie1992rigorous</bcf:citekey>
-    <bcf:citekey order="11">mayer2020langevin</bcf:citekey>
-    <bcf:citekey order="12">mayer2020langevin</bcf:citekey>
+    <bcf:citekey order="7">rossetto2012histone</bcf:citekey>
+    <bcf:citekey order="7">wang2006histone</bcf:citekey>
+    <bcf:citekey order="8">zhang2015interplay</bcf:citekey>
+    <bcf:citekey order="8">musselman2012perceiving</bcf:citekey>
+    <bcf:citekey order="8">ge2019nucleation</bcf:citekey>
+    <bcf:citekey order="9">zeng2002bromodomain</bcf:citekey>
+    <bcf:citekey order="10">lesch2014poised</bcf:citekey>
+    <bcf:citekey order="10">bernhart2016changes</bcf:citekey>
+    <bcf:citekey order="11">schuettengruber2017genome</bcf:citekey>
+    <bcf:citekey order="12">lemons1908paper</bcf:citekey>
     <bcf:citekey order="13">mayer2020langevin</bcf:citekey>
-    <bcf:citekey order="14">dodd2011barriers</bcf:citekey>
-    <bcf:citekey order="14">sneppen2019theoretical</bcf:citekey>
-    <bcf:citekey order="14">mayer2020langevin</bcf:citekey>
-    <bcf:citekey order="15">sneppen2014models</bcf:citekey>
-    <bcf:citekey order="16">dodd2011barriers</bcf:citekey>
-    <bcf:citekey order="17">dodd2011barriers</bcf:citekey>
-    <bcf:citekey order="18">3dodd2007theoretical</bcf:citekey>
-    <bcf:citekey order="18">11sedighi2007epigenetic</bcf:citekey>
-    <bcf:citekey order="18">15micheelsen2010theory</bcf:citekey>
-    <bcf:citekey order="19">3dodd2007theoretical</bcf:citekey>
-    <bcf:citekey order="19">13david2009inheritance</bcf:citekey>
-    <bcf:citekey order="20">3dodd2007theoretical</bcf:citekey>
-    <bcf:citekey order="20">15micheelsen2010theory</bcf:citekey>
-    <bcf:citekey order="21">cooperativityDefBritannica</bcf:citekey>
-    <bcf:citekey order="22">mayer2020langevin</bcf:citekey>
-    <bcf:citekey order="23">schuettengruber2017genome</bcf:citekey>
-    <bcf:citekey order="24">javierre2016lineage</bcf:citekey>
+    <bcf:citekey order="14">gillespie1976general</bcf:citekey>
+    <bcf:citekey order="14">gillespie1992rigorous</bcf:citekey>
+    <bcf:citekey order="15">mayer2020langevin</bcf:citekey>
+    <bcf:citekey order="16">mayer2020langevin</bcf:citekey>
+    <bcf:citekey order="17">gillespie1977exact</bcf:citekey>
+    <bcf:citekey order="17">mayer2020langevin</bcf:citekey>
+    <bcf:citekey order="18">arnold2013chromatin</bcf:citekey>
+    <bcf:citekey order="19">Stadler2002</bcf:citekey>
+    <bcf:citekey order="20">waddington2014strategy</bcf:citekey>
+    <bcf:citekey order="21">epilandscapeDefEmbryo</bcf:citekey>
+    <bcf:citekey order="22">blender</bcf:citekey>
+    <bcf:citekey order="23">blender</bcf:citekey>
+    <bcf:citekey order="24">mayer2020langevin</bcf:citekey>
+    <bcf:citekey order="25">mayer2020langevin</bcf:citekey>
+    <bcf:citekey order="26">mayer2020langevin</bcf:citekey>
+    <bcf:citekey order="27">dodd2011barriers</bcf:citekey>
+    <bcf:citekey order="27">sneppen2019theoretical</bcf:citekey>
+    <bcf:citekey order="27">mayer2020langevin</bcf:citekey>
+    <bcf:citekey order="28">sneppen2014models</bcf:citekey>
+    <bcf:citekey order="29">dodd2011barriers</bcf:citekey>
+    <bcf:citekey order="30">dodd2011barriers</bcf:citekey>
+    <bcf:citekey order="31">3dodd2007theoretical</bcf:citekey>
+    <bcf:citekey order="31">11sedighi2007epigenetic</bcf:citekey>
+    <bcf:citekey order="31">15micheelsen2010theory</bcf:citekey>
+    <bcf:citekey order="32">3dodd2007theoretical</bcf:citekey>
+    <bcf:citekey order="32">13david2009inheritance</bcf:citekey>
+    <bcf:citekey order="33">3dodd2007theoretical</bcf:citekey>
+    <bcf:citekey order="33">15micheelsen2010theory</bcf:citekey>
+    <bcf:citekey order="34">cooperativityDefBritannica</bcf:citekey>
+    <bcf:citekey order="35">mayer2020langevin</bcf:citekey>
+    <bcf:citekey order="36">mayer2020langevin</bcf:citekey>
+    <bcf:citekey order="37">mayer2020langevin</bcf:citekey>
+    <bcf:citekey order="38">mayer2020langevin</bcf:citekey>
+    <bcf:citekey order="39">schuettengruber2017genome</bcf:citekey>
+    <bcf:citekey order="40">javierre2016lineage</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
-  <bcf:sortingtemplate name="nty">
+  <bcf:sortingtemplate name="none">
     <bcf:sort order="1">
-      <bcf:sortitem order="1">presort</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="2" final="1">
-      <bcf:sortitem order="1">sortkey</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="3">
-      <bcf:sortitem order="1">sortname</bcf:sortitem>
-      <bcf:sortitem order="2">author</bcf:sortitem>
-      <bcf:sortitem order="3">editor</bcf:sortitem>
-      <bcf:sortitem order="4">translator</bcf:sortitem>
-      <bcf:sortitem order="5">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="6">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
-      <bcf:sortitem order="1">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2">year</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="6">
-      <bcf:sortitem order="1">volume</bcf:sortitem>
-      <bcf:sortitem literal="1" order="2">0</bcf:sortitem>
+      <bcf:sortitem order="1">citeorder</bcf:sortitem>
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->

@@ -1,7 +1,58 @@
 \chapter{Outlook}
 \label{cha:outlook}
 
-\begin{itemize}
-    \item Schuettengruber et al. in \cite{schuettengruber2017genome} (p44f) % TODO remove page number
-    explain that PREs (Polycomb response elements) are responsible for the chromatin forming loops (TADs = topologically associating domains) and are thus able to form large silenced areas of condensed chromatin. These 3D-formations are critical for HOX gene regulation. It is also known that many active gene promoters interact with their enhancers and other promoters in a 3d-fashion. \cite{javierre2016lineage} These findings suggest that it might be beneficial for \ed simulations to further explore possibilities to emulate fixed and dynamic 3D interactions within the nucleosome string.
-\end{itemize}
+
+
+
+\section{Make \ed/ account for recent biological findings}
+    %
+    Schuettengruber et al. in \cite{schuettengruber2017genome} (p44f) % TODO remove page number
+    explain that PREs (Polycomb response elements) are responsible for the chromatin forming loops (TADs = topologically associating domains) and are thus able to form large silenced areas of condensed chromatin. These 3D-formations are critical for HOX gene regulation. It is also known that many active gene promoters interact with their enhancers and other promoters in a 3d-fashion. \cite{javierre2016lineage} These findings suggest that it might be beneficial for \ed/ simulations to further explore possibilities to emulate fixed and dynamic 3D interactions within the nucleosome string.
+    %
+%
+%
+\section{Explore recently discovered non-cooperative edge case}
+    %
+    \begin{figure}[htpb!]
+        \centering
+        \includerunplot{Results/outlook/StrongExtenders_cyclic_1_runHistoryPlot.pdf}
+        \caption{Absolute number of nucleosome states (active in green, silent in red) during the course of one long simulation (about 3.9 million reaction steps). The enzyme rule set contains linear extenders, linear removers, random adders and random removers. The rule set does not contain cooperative enzymes.}
+        \label{img:outlook_nonCoop}
+    \end{figure}
+    %
+
+    %
+    A quite unexpected result was found in a system of exclusively non-cooperative enzymes at a very specific association rate ratio summarized in table \ref{table:outlook_nonCoop}. The state adoption in this system resembles bistable behaviour as can be seen in fig. \ref{img:outlook_nonCoop}. One can clearly see that there are two very distinct peaks at complete activation and complete silencing of the nucleosome string. Even though, this system seems to be bistable, it shows one very important differences to the bistable systems explored earlier in this work: the lack of variance around the peaks in the histogram.
+    %
+
+    %
+    \begin{table}[htbp!]
+        \caption{Enzyme types that are included in the rule set for the run illustrated in fig. \ref{img:outlook_nonCoop} with their respective association rates. All enzymes' dissociation rates are at an equal rate of 100000. The enzyme rule set is symmetrical, which means that every enzyme type exists in favour of acetylation as well as methylation at equal rates respectively.}
+        \begin{center}
+            \begin{tabular}{l r}
+                \hline
+                \textbf{enzyme type} & \textbf{association rate} \\
+                \hline
+                random adder & 100 \\
+                random remover & 2 \\
+                linear extender & 20000 \\
+                linear remover & 20000 \\
+                \hline
+            \end{tabular}
+        \end{center}
+        \label{img:enzymeRatesPeculiarCase}
+    \end{table}
+    %
+
+    %
+    As stated earlier, the histograms' peak variance can be understood as the area where the system has a more or less strong tendency to return to the peak's state. Or, in mathematical terms, the variance is the area in the system's underlying vector field that points in the fix point's direction.
+    %
+
+    %
+    This behaviour is not observed in the non-cooperative case described in fig. \ref{img:outlook_nonCoop}. Thus, one single opposite modification added randomly to the string entails the system's return to a random walk. As the term “stability” describes a state's resistance against small deviations and the addition of one single modification is nothing more than an atomic step for this system % TODO: maybe refer to step function of fitness landscape
+    one can say, that this non-cooperative case does not qualify as being bistable in the true sense of the word.
+    %
+
+    %
+    Nonetheless, it is an interesting phenomenon worth exploring, as it remains debatable if “true bistability” is really needed in the biological context.
+    %

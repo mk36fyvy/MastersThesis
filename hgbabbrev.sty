@@ -51,9 +51,17 @@
 
 %% Custom abbreviations:
 
-    \newcommand{\ed}{\textit{EpiDynast}}
+    \def\ed/{\textit{EpiDynaST}}
     \newcommand{\source}{\color{red}[source]\color{black}}
 
     % Plots
-    \newcommand{\includeheatmap}[1]{\includegraphics[trim={0 0 7cm 0}, clip, width=1\textwidth, angle=0]{#1}}
+    % \newcommand{\includeheatmap}[1]{\includegraphics[trim={0 0 7cm 0}, clip, width=1.3\textwidth, angle=90]{#1}}
+    \newcommand{\includeheatmap}[1]{\includegraphics[trim={3cm 0 7cm 0}, clip, width=\textwidth, angle=0]{#1}}
     \newcommand{\includerunplot}[1]{\includegraphics[width=\textwidth]{#1}}
+    \newcommand{\includeappendixrunplot}[1]{\includegraphics[width=0.49\textwidth]{#1}}
+
+    %vertically center text in tabular
+    \newcommand{\centered}[1]{\begin{tabular}{@{}l@{}} #1 \end{tabular}}
+
+    \NewCommandCopy{\oldcaption}{\caption}
+    \renewcommand{\caption}[1]{\oldcaption{\small #1}}
