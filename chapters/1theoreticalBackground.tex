@@ -96,6 +96,7 @@
         %
         %
         \subsection{Histone-modifying enzymes}
+            \label{subsec:HME}
             %
             This thesis is based on one aspect of the chromatin remodelling machinery, namely histone-modifying enzyme complexes (HME). These complexes are able to covalently bind or remove chemical groups on amino acids (mostly R and K) at very specific positions on the histone tail. These post-translational modifications (PTMs) are named according to the amino acid they have been bound to. H3K27ac, for instance, denotes an acetylation (ac) on lysine 27 (K27) of histone 3 (H3).
             %
@@ -126,6 +127,14 @@
 
             %
             The enzymes' modification activities are not forcibly isolated processes. The different enzyme types as well as the modifications on specific amino acids on the histone tails are connected through complex interaction networks \cite{zhang2015interplay, musselman2012perceiving, ge2019nucleation}. Such crosstalk between different modifications is achieved by the enzymes' ability to “read” modifications and “write” another one, if the reading process was successful. Reading is achieved by binding to specific modifications on the histone tail. A very popular example for this behaviour is the bromodomain, which specifically binds acetylated lysines \cite{zeng2002bromodomain}. The modification pattern that certain enzymes need in order to modify an amino acid will further on be called the enzyme's \textit{context}. Upon successful binding, the enzyme can then catalyse the covalent modification of an unmodified amino acid.
+            %
+
+            %
+            In order to clarify the meaning of the vocabulary concerning the enzyme models, consider the following illustration:
+            %
+
+            %
+            For the HAT enzyme mentioned earlier, one would define the enzyme’s context as an unmodified nucleosome, as this is needed in order for the enzyme to perform its specific chemical modification reaction on the nucleosome string, which is acetylation of an unmodified nucleosome. Possibly, the enzyme needs a specific reading pattern in order to bind to the string in proximity of the nucleosome to be written on. This is the case when concerning self-reinforcing enzymes, for instance, which read their own modification and are then able to write it to another unmodified nucleosome which results in a positive feedback loop. Such specific reading/binding patterns are also contained in the context of this specific enzyme. Thus, the enzyme’s context is a summary of rules that impose constraints on the presence or absence of modifications on the nucleosome string in order for the enzyme to gain reading/writing ability.\\
             %
 
             %
@@ -204,7 +213,11 @@
         \subsection{Gillespie's algorithm}
         \label{subsec:Gillespie}
             %
-            Gillespie's algorithm or \textit{stochastic simulation algorithm}, as called by the author, simulates the evolution in time of a spatially homogenous molecular mixture with a discrete number of reactants under specification of the coupled reaction channels (i.e. association and enzymatic reaction with simultaneous dissociation) based on stochastic chemical kinetics \cite{gillespie1976general, gillespie1992rigorous}. This is useful especially when the practice of solving the chemical master equation analytically is not ideal (see \ref{subsec:CME}).\\
+            Gillespie's algorithm or \textit{stochastic simulation algorithm}, as called by the author, simulates the evolution in time of a spatially homogenous molecular mixture with a discrete number of reactants under specification of the coupled reaction channels (i.e. association and enzymatic reaction with simultaneous dissociation) based on stochastic chemical kinetics \cite{gillespie1976general, gillespie1992rigorous}. This is useful especially when the practice of solving the chemical master equation analytically is not ideal (see \ref{subsec:CME}).
+            %
+
+            %
+            Reconsidering the HAT enzyme example from before, its two reaction channels would be the association for one and secondly the reaction and dissociation channel. \\
             %
 
             %
@@ -221,11 +234,11 @@
             %
 
             %
-            The algorithm accounts for an appropriate choice of the time elapsed between two time steps by computing and comparing the number of legal associations and dissociations as defined by the reactions (or rules) given to the algorithm. The rule set in this setting consists of enzymes that covalently modify histone tails. The legality of such a reaction is assessed by checking, if a certain modification pattern (context) is already present on the nucleosome to be modified and other neighbouring nucleosomes on the string.
+            The algorithm accounts for an appropriate choice of the time elapsed between two time steps by computing and comparing the number of legal associations and dissociations as defined by the enzyme rules given to the algorithm. The rule set in this setting consists of enzymes that covalently modify histone tails. The legality of such a reaction is assessed by checking, if a certain modification pattern (context) is already present on the nucleosome to be modified and other neighbouring nucleosomes on the string in order to perform the reading and writing actions for the specific enzyme.
             %
 
             %
-            The algorithm then summarizes these legal reaction possibilities in a propensity sum (normalized from 0 to 1) taking the given association and dissociation rates as well as the concentrations into account. An event is then chosen at random by selecting a random number between 0 and 1.If many events are contributing to the propensity sum at this time step, the time in between events is smaller. Conversely, if only few events are possible at this time step, the time in between events is larger.\\
+            The algorithm then summarizes these legal channel possibilities in a propensity sum (normalized from 0 to 1) taking the given association and dissociation rates as well as the concentrations into account. An event is then chosen at random by selecting a random number between 0 and 1. If many events are contributing to the propensity sum at this time step, the time in between events is smaller. Conversely, if only few events are possible at this time step, the time in between events is larger.\\
             %
 
 
@@ -243,7 +256,7 @@
             %
         %
         %
-        \subsection{EpiDynast}
+        \subsection{\ed/}
         \label{subsec:EpiDynast}
             %
             The software used in this thesis is \ed/ (\textbf{Epi}genetic \textbf{Dyna}mics \textbf{S}imulation \textbf{T}ool), which bases on \textit{StoChDyn} by Arnold et al. \cite{arnold2013chromatin} and was developed by N. Herbig et al. (unpublished results).

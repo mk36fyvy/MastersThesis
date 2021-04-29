@@ -55,8 +55,9 @@
     \newcommand{\source}{\color{red}[source]\color{black}}
 
     % Plots
-    % \newcommand{\includeheatmap}[1]{\includegraphics[trim={0 0 7cm 0}, clip, width=1.3\textwidth, angle=90]{#1}}
-    \newcommand{\includeheatmap}[1]{\includegraphics[trim={3cm 0 7cm 0}, clip, width=\textwidth, angle=0]{#1}}
+    % \newcommand{\includeheatmap}[1]{\includegraphics[width=.9\textheight, angle=90]{#1.pdf}} % some heatmaps overflow to the right of page
+    \newcommand{\includeheatmap}[1]{\includegraphics[width=\textwidth]{#1.pdf}}
+    % \newcommand{\includeheatmap}[1]{\includegraphics[width=\textwidth, angle=0]{#1_numberAnnot.pdf}}
     \newcommand{\includerunplot}[1]{\includegraphics[width=\textwidth]{#1}}
     \newcommand{\includeappendixrunplot}[1]{\includegraphics[width=0.49\textwidth]{#1}}
 

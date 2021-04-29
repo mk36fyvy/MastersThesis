@@ -1161,6 +1161,32 @@
       \verb https://www.britannica.com/science/cooperativity
       \endverb
     \endentry
+    \entry{Krecké2021}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9936aebb104c56133066eae5291c920b}{%
+           family={Krecké},
+           familyi={K\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {GitHub}%
+      }
+      \strng{namehash}{9936aebb104c56133066eae5291c920b}
+      \strng{fullhash}{9936aebb104c56133066eae5291c920b}
+      \strng{bibnamehash}{9936aebb104c56133066eae5291c920b}
+      \strng{authorbibnamehash}{9936aebb104c56133066eae5291c920b}
+      \strng{authornamehash}{9936aebb104c56133066eae5291c920b}
+      \strng{authorfullhash}{9936aebb104c56133066eae5291c920b}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/mk36fyvy/MastersThesis_Calculations}}
+      \field{journaltitle}{GitHub repository}
+      \field{title}{EpiDynaST simulation files for Masters Thesis}
+      \field{year}{2021}
+    \endentry
     \entry{javierre2016lineage}{article}{}
       \true{moreauthor}
       \true{morelabelname}

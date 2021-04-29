@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.15)  21 APR 2021 13:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.15)  29 APR 2021 15:27
 entering extended mode
 **e:/Users/mikre/Dropbox/MasterThesis/Thesis/main.tex
 (e:/Users/mikre/Dropbox/MasterThesis/Thesis/main.tex
@@ -239,7 +239,7 @@ File: pgfcalendar.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 
 Package hagenberg-thesis Warning: 
 **************************************************************** 
-NOTE: 'hagenberg-thesis' is 414 days old - pls. check for updates 
+NOTE: 'hagenberg-thesis' is 422 days old - pls. check for updates 
 at https://github.com/Digital-Media/HagenbergThesis 
 **************************************************************** 
  on input line 100.
@@ -1232,6 +1232,11 @@ Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@cntb=\count506
 \multirow@dima=\skip110
 \bigstrutjot=\dimen325
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/units\nicefrac.sty"
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip111
+\L@UnitsRaiseTextstyle=\skip112
+\L@UnitsRaiseScriptstyle=\skip113
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/placeins\placeins.sty"
 Package: placeins 2005/04/18  v 2.2
 )
@@ -1240,24 +1245,24 @@ Package csquotes Info: ... found 'babel' package.
  (main.aux (chapters/1theoreticalBackground.aux) (chapters/2methods.aux) (chapters/3results.aux) (chapters/4discussion.aux) (chapters/5outlook.aux) (back/appendix_a.aux) (back/appendix_b.aux) (back/printbox.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1293,7 +1298,7 @@ LaTeX Font Info:    ... okay on input line 63.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package csquotes Info: Redefining character " on input line 63.
+Package csquotes Info: Redefining character " on input line 64.
 ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count507
@@ -1308,7 +1313,7 @@ Package csquotes Info: Redefining character " on input line 63.
 \makeMPintoPDFobject=\count512
 \everyMPtoPDFconversion=\toks53
 )
-Package hyperref Info: Link coloring OFF on input line 63.
+Package hyperref Info: Link coloring OFF on input line 64.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  ("C:\Program Files\MiKTeX 2.9\tex/latex/refcount\refcount.sty"
@@ -1318,9 +1323,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count513
 )
-LaTeX Info: Redefining \ref on input line 63.
-LaTeX Info: Redefining \pageref on input line 63.
-LaTeX Info: Redefining \nameref on input line 63.
+LaTeX Info: Redefining \ref on input line 64.
+LaTeX Info: Redefining \pageref on input line 64.
+LaTeX Info: Redefining \nameref on input line 64.
  (main.out) (main.out)
 \@outlinefile=\write5
 \openout5 = `main.out'.
@@ -1363,36 +1368,36 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 63.
-Package biblatex Info: Reference segment=0 on input line 63.
+Package biblatex Info: Reference section=0 on input line 64.
+Package biblatex Info: Reference segment=0 on input line 64.
 
-Package chemgreek Info: Activating mapping `default' on line 63.
+Package chemgreek Info: Activating mapping `default' on line 64.
 
-Package hyperref Info: Option `pageanchor' set `false' on input line 70.
-Package csquotes Info: Redefining character " on input line 70.
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 70.
+Package hyperref Info: Option `pageanchor' set `false' on input line 71.
+Package csquotes Info: Redefining character " on input line 71.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 71.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 70.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 71.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<ot1.cmap>>
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 70.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 71.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<oml.cmap>>
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 70.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 71.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 70.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 70.
+(Font)              <6> on input line 71.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 71.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 70.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 71.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
@@ -1403,7 +1408,7 @@ Package epstopdf Info: Source file: <images//logo.eps>
 (epstopdf)                    date: 2021-01-04 20:50:49
 (epstopdf)                    size: 46953 bytes
 (epstopdf)             Command: <epstopdf --outfile=images//logo-eps-converted-to.pdf images//logo.eps>
-(epstopdf)             \includegraphics on input line 70.
+(epstopdf)             \includegraphics on input line 71.
 Package epstopdf Info: Output file is already uptodate.
 
 
@@ -1411,20 +1416,20 @@ pdfTeX warning: pdflatex (file ./images//logo-eps-converted-to.pdf): PDF inclusi
 <images//logo-eps-converted-to.pdf, id=203, 339.2675pt x 142.5325pt>
 File: images//logo-eps-converted-to.pdf Graphic file (type pdf)
 <use images//logo-eps-converted-to.pdf>
-Package pdftex.def Info: images//logo-eps-converted-to.pdf  used on input line 70.
+Package pdftex.def Info: images//logo-eps-converted-to.pdf  used on input line 71.
 (pdftex.def)             Requested size: 203.1738pt x 85.35826pt.
 [1
 
 
 
 {C:/Users/mikre/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images//logo-eps-converted-to.pdf>] [2]
-LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 70.
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 71.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ts1lmss.fd"
 File: ts1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Package csquotes Info: Redefining character " on input line 70.
+Package csquotes Info: Redefining character " on input line 71.
  [3]
-Package hyperref Info: Option `pageanchor' set `true' on input line 70.
+Package hyperref Info: Option `pageanchor' set `true' on input line 71.
  [4
 
 ] (main.toc
@@ -1463,106 +1468,114 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--98
 
  []
 
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 137.
-("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ts1lmr.fd"
-File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 207--209
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--139
 
  []
 
-[4pdfTeX warning (ext4): destination with the same identifier (name{equation.1.2.1}) has been already used, duplicate ignored
+[2]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 146.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ts1lmr.fd"
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [3] [4pdfTeX warning (ext4): destination with the same identifier (name{equation.1.2.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.209 
-      pdfTeX warning (ext4): destination with the same identifier (name{equation.1.2.2}) has been already used, duplicate ignored
+l.203                 \end{align}
+                                 ]
+Underfull \hbox (badness 10000) in paragraph at lines 220--222
+
+ []
+
+<images//Gillespie_timeSteps.pdf, id=381, 1679.27374pt x 627.34375pt>
+File: images//Gillespie_timeSteps.pdf Graphic file (type pdf)
+<use images//Gillespie_timeSteps.pdf>
+Package pdftex.def Info: images//Gillespie_timeSteps.pdf  used on input line 230.
+(pdftex.def)             Requested size: 290.7859pt x 108.62852pt.
+[5pdfTeX warning (ext4): destination with the same identifier (name{equation.1.2.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.209 
+l.239 
       pdfTeX warning (ext4): destination with the same identifier (name{equation.1.2.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.209 
+l.239 
       pdfTeX warning (ext4): destination with the same identifier (name{equation.1.2.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   
-l.209 
-      ]
-<images//Gillespie_timeSteps.pdf, id=383, 1679.27374pt x 627.34375pt>
-File: images//Gillespie_timeSteps.pdf Graphic file (type pdf)
-<use images//Gillespie_timeSteps.pdf>
-Package pdftex.def Info: images//Gillespie_timeSteps.pdf  used on input line 217.
-(pdftex.def)             Requested size: 290.7859pt x 108.62852pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 228--230
+l.239 
+       <./images//Gillespie_timeSteps.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 241--243
 
  []
 
-[5 <./images//Gillespie_timeSteps.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 277--279
-
- []
-
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 259.
 [6]
+Underfull \hbox (badness 10000) in paragraph at lines 290--292
+
+ []
+
+
 
 pdfTeX warning: pdflatex (file ./images//landscape_wAxes.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images//landscape_wAxes.pdf, id=420, 1524.8167pt x 857.71037pt>
+<images//landscape_wAxes.pdf, id=417, 1524.8167pt x 857.71037pt>
 File: images//landscape_wAxes.pdf Graphic file (type pdf)
 <use images//landscape_wAxes.pdf>
-Package pdftex.def Info: images//landscape_wAxes.pdf  used on input line 292.
+Package pdftex.def Info: images//landscape_wAxes.pdf  used on input line 305.
 (pdftex.def)             Requested size: 332.32945pt x 186.93004pt.
-<images//landscape_wAxes_2D.pdf, id=421, 1933.2225pt x 829.0975pt>
+<images//landscape_wAxes_2D.pdf, id=418, 1933.2225pt x 829.0975pt>
 File: images//landscape_wAxes_2D.pdf Graphic file (type pdf)
 <use images//landscape_wAxes_2D.pdf>
-Package pdftex.def Info: images//landscape_wAxes_2D.pdf  used on input line 298.
+Package pdftex.def Info: images//landscape_wAxes_2D.pdf  used on input line 311.
 (pdftex.def)             Requested size: 332.32945pt x 142.52608pt.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 301.
+(Font)              <7> on input line 314.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 301.
-[7 <./images//landscape_wAxes.pdf> <./images//landscape_wAxes_2D.pdf>]
-<images//vectorfield_noncooperative_assymetric_monostable_ac.pdf, id=470, 300.08452pt x 297.56746pt>
+(Font)              <5> on input line 314.
+[7]
+<images//vectorfield_noncooperative_assymetric_monostable_ac.pdf, id=430, 300.08452pt x 297.56746pt>
 File: images//vectorfield_noncooperative_assymetric_monostable_ac.pdf Graphic file (type pdf)
 <use images//vectorfield_noncooperative_assymetric_monostable_ac.pdf>
-Package pdftex.def Info: images//vectorfield_noncooperative_assymetric_monostable_ac.pdf  used on input line 335.
+Package pdftex.def Info: images//vectorfield_noncooperative_assymetric_monostable_ac.pdf  used on input line 348.
 (pdftex.def)             Requested size: 124.62433pt x 123.579pt.
-<images//vectorfield_noncooperative_asymmetric_multistable.pdf, id=471, 278.33177pt x 297.56746pt>
+<images//vectorfield_noncooperative_asymmetric_multistable.pdf, id=431, 278.33177pt x 297.56746pt>
 File: images//vectorfield_noncooperative_asymmetric_multistable.pdf Graphic file (type pdf)
 <use images//vectorfield_noncooperative_asymmetric_multistable.pdf>
-Package pdftex.def Info: images//vectorfield_noncooperative_asymmetric_multistable.pdf  used on input line 339.
+Package pdftex.def Info: images//vectorfield_noncooperative_asymmetric_multistable.pdf  used on input line 352.
 (pdftex.def)             Requested size: 124.62433pt x 133.23665pt.
-<images//vectorfield_noncooperative_assymetric_monostable_me.pdf, id=472, 287.27464pt x 297.56746pt>
+<images//vectorfield_noncooperative_assymetric_monostable_me.pdf, id=432, 287.27464pt x 297.56746pt>
 File: images//vectorfield_noncooperative_assymetric_monostable_me.pdf Graphic file (type pdf)
 <use images//vectorfield_noncooperative_assymetric_monostable_me.pdf>
-Package pdftex.def Info: images//vectorfield_noncooperative_assymetric_monostable_me.pdf  used on input line 343.
+Package pdftex.def Info: images//vectorfield_noncooperative_assymetric_monostable_me.pdf  used on input line 356.
 (pdftex.def)             Requested size: 124.62433pt x 129.08662pt.
- [8 <./images//vectorfield_noncooperative_assymetric_monostable_ac.pdf> <./images//vectorfield_noncooperative_asymmetric_multistable.pdf
+ [8 <./images//landscape_wAxes.pdf> <./images//landscape_wAxes_2D.pdf>] [9 <./images//vectorfield_noncooperative_assymetric_monostable_ac.pdf> <./images//vectorfield_noncooperative_asymmetric_multistable.pdf
 
 pdfTeX warning: pdflatex (file ./images//vectorfield_noncooperative_asymmetric_multistable.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 > <./images//vectorfield_noncooperative_assymetric_monostable_me.pdf
 
 pdfTeX warning: pdflatex (file ./images//vectorfield_noncooperative_assymetric_monostable_me.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-Underfull \hbox (badness 10000) in paragraph at lines 376--378
+Underfull \hbox (badness 10000) in paragraph at lines 389--391
 
  []
 
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 384--386
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--399
 
  []
 
-<images//vectorfield_cooperative.pdf, id=582, 276.21988pt x 297.56746pt>
+[10]
+<images//vectorfield_cooperative.pdf, id=590, 276.21988pt x 297.56746pt>
 File: images//vectorfield_cooperative.pdf Graphic file (type pdf)
 <use images//vectorfield_cooperative.pdf>
-Package pdftex.def Info: images//vectorfield_cooperative.pdf  used on input line 412.
+Package pdftex.def Info: images//vectorfield_cooperative.pdf  used on input line 425.
 (pdftex.def)             Requested size: 207.70512pt x 223.75621pt.
-[10 <./images//vectorfield_cooperative.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 449--451
+ [11 <./images//vectorfield_cooperative.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 462--464
 
  []
 
-) [11]
+) [12]
 \openout2 = `chapters/2methods.aux'.
 
  (chapters/2methods.tex
@@ -1572,220 +1585,233 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--13
 
  []
 
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 29.
-[12
+[13
 
 
 
 
 ]
-<images//enzymes/linear_a.pdf, id=634, 793.96625pt x 129.48375pt>
+<images//enzymes/linear_a.pdf, id=640, 793.96625pt x 129.48375pt>
 File: images//enzymes/linear_a.pdf Graphic file (type pdf)
 <use images//enzymes/linear_a.pdf>
 Package pdftex.def Info: images//enzymes/linear_a.pdf  used on input line 64.
 (pdftex.def)             Requested size: 332.32945pt x 54.19905pt.
-<images//enzymes/linear_b.pdf, id=635, 793.96625pt x 129.48375pt>
+<images//enzymes/linear_b.pdf, id=641, 793.96625pt x 129.48375pt>
 File: images//enzymes/linear_b.pdf Graphic file (type pdf)
 <use images//enzymes/linear_b.pdf>
 Package pdftex.def Info: images//enzymes/linear_b.pdf  used on input line 71.
 (pdftex.def)             Requested size: 332.32945pt x 54.19905pt.
- [13]
-<images//enzymes/coop_a.pdf, id=645, 1498.59875pt x 129.48375pt>
+ [14]
+<images//enzymes/coop_a.pdf, id=649, 1498.59875pt x 129.48375pt>
 File: images//enzymes/coop_a.pdf Graphic file (type pdf)
 <use images//enzymes/coop_a.pdf>
 Package pdftex.def Info: images//enzymes/coop_a.pdf  used on input line 94.
 (pdftex.def)             Requested size: 332.32945pt x 28.71371pt.
-<images//enzymes/coop_b.pdf, id=646, 1498.59875pt x 127.47626pt>
+<images//enzymes/coop_b.pdf, id=650, 1498.59875pt x 127.47626pt>
 File: images//enzymes/coop_b.pdf Graphic file (type pdf)
 <use images//enzymes/coop_b.pdf>
 Package pdftex.def Info: images//enzymes/coop_b.pdf  used on input line 101.
 (pdftex.def)             Requested size: 332.32945pt x 28.26854pt.
- [14 <./images//enzymes/linear_a.pdf> <./images//enzymes/linear_b.pdf> <./images//enzymes/coop_a.pdf> <./images//enzymes/coop_b.pdf>]
-<images//enzymes/random_a.pdf, id=725, 793.96625pt x 129.48375pt>
+ [15 <./images//enzymes/linear_a.pdf> <./images//enzymes/linear_b.pdf> <./images//enzymes/coop_a.pdf> <./images//enzymes/coop_b.pdf>]
+<images//enzymes/random_a.pdf, id=729, 793.96625pt x 129.48375pt>
 File: images//enzymes/random_a.pdf Graphic file (type pdf)
 <use images//enzymes/random_a.pdf>
 Package pdftex.def Info: images//enzymes/random_a.pdf  used on input line 135.
 (pdftex.def)             Requested size: 332.32945pt x 54.19905pt.
-<images//enzymes/random_b.pdf, id=726, 793.96625pt x 129.48375pt>
+<images//enzymes/random_b.pdf, id=730, 793.96625pt x 129.48375pt>
 File: images//enzymes/random_b.pdf Graphic file (type pdf)
 <use images//enzymes/random_b.pdf>
 Package pdftex.def Info: images//enzymes/random_b.pdf  used on input line 142.
 (pdftex.def)             Requested size: 332.32945pt x 54.19905pt.
-<images//enzymes/completer_total_a.pdf, id=727, 793.96625pt x 130.4875pt>
+<images//enzymes/completer_total_a.pdf, id=731, 793.96625pt x 130.4875pt>
 File: images//enzymes/completer_total_a.pdf Graphic file (type pdf)
 <use images//enzymes/completer_total_a.pdf>
 Package pdftex.def Info: images//enzymes/completer_total_a.pdf  used on input line 178.
 (pdftex.def)             Requested size: 332.32945pt x 54.61919pt.
-<images//enzymes/completer_total_b.pdf, id=728, 793.96625pt x 130.4875pt>
+<images//enzymes/completer_total_b.pdf, id=732, 793.96625pt x 130.4875pt>
 File: images//enzymes/completer_total_b.pdf Graphic file (type pdf)
 <use images//enzymes/completer_total_b.pdf>
 Package pdftex.def Info: images//enzymes/completer_total_b.pdf  used on input line 185.
 (pdftex.def)             Requested size: 332.32945pt x 54.61919pt.
-<images//enzymes/completer_biv_a.pdf, id=729, 793.96625pt x 130.4875pt>
+<images//enzymes/completer_biv_a.pdf, id=733, 793.96625pt x 130.4875pt>
 File: images//enzymes/completer_biv_a.pdf Graphic file (type pdf)
 <use images//enzymes/completer_biv_a.pdf>
 Package pdftex.def Info: images//enzymes/completer_biv_a.pdf  used on input line 192.
 (pdftex.def)             Requested size: 332.32945pt x 54.61919pt.
-<images//enzymes/completer_biv_b.pdf, id=730, 793.96625pt x 130.4875pt>
+<images//enzymes/completer_biv_b.pdf, id=734, 793.96625pt x 130.4875pt>
 File: images//enzymes/completer_biv_b.pdf Graphic file (type pdf)
 <use images//enzymes/completer_biv_b.pdf>
 Package pdftex.def Info: images//enzymes/completer_biv_b.pdf  used on input line 199.
 (pdftex.def)             Requested size: 332.32945pt x 54.61919pt.
- [15 <./images//enzymes/random_a.pdf> <./images//enzymes/random_b.pdf>] [16 <./images//enzymes/completer_total_a.pdf> <./images//enzymes/completer_total_b.pdf> <./images//enzymes/completer_biv_a.pdf> <./images//enzymes/completer_biv_b.pdf>] [17]) [18]
+ [16 <./images//enzymes/random_a.pdf> <./images//enzymes/random_b.pdf>] [17 <./images//enzymes/completer_total_a.pdf> <./images//enzymes/completer_total_b.pdf> <./images//enzymes/completer_biv_a.pdf> <./images//enzymes/completer_biv_b.pdf>] [18]) [19]
 \openout2 = `chapters/3results.aux'.
 
  (chapters/3results.tex
 Chapter 3.
-<images//Results/3.1_noncoopNotBistable/longRun_nonCyclic_highDiss_2_runHistoryPlot.pdf, id=1262, 462.52798pt x 346.89601pt>
+<images//Results/3.1_noncoopNotBistable/longRun_nonCyclic_highDiss_2_runHistoryPlot.pdf, id=1269, 412.22807pt x 320.05598pt>
 File: images//Results/3.1_noncoopNotBistable/longRun_nonCyclic_highDiss_2_runHistoryPlot.pdf Graphic file (type pdf)
 <use images//Results/3.1_noncoopNotBistable/longRun_nonCyclic_highDiss_2_runHistoryPlot.pdf>
 Package pdftex.def Info: images//Results/3.1_noncoopNotBistable/longRun_nonCyclic_highDiss_2_runHistoryPlot.pdf  used on input line 15.
-(pdftex.def)             Requested size: 415.41025pt x 311.57362pt.
+(pdftex.def)             Requested size: 415.41025pt x 322.53119pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--30
-
- []
-
-<images//Results/3.1_noncoopNotBistable/shortRun_nonCyclic_highDiss_bindingNumbers_5runs_numberAnnot.pdf, id=1266, 1806.75pt x 693.792pt>
-File: images//Results/3.1_noncoopNotBistable/shortRun_nonCyclic_highDiss_bindingNumbers_5runs_numberAnnot.pdf Graphic file (type pdf)
-<use images//Results/3.1_noncoopNotBistable/shortRun_nonCyclic_highDiss_bindingNumbers_5runs_numberAnnot.pdf>
-Package pdftex.def Info: images//Results/3.1_noncoopNotBistable/shortRun_nonCyclic_highDiss_bindingNumbers_5runs_numberAnnot.pdf  used on input line 34.
-(pdftex.def)             Requested size: 415.41025pt x 189.32716pt.
-[19
-
-
-
-
-] [20 <./images//Results/3.1_noncoopNotBistable/longRun_nonCyclic_highDiss_2_runHistoryPlot.pdf>] [21 <./images//Results/3.1_noncoopNotBistable/shortRun_nonCyclic_highDiss_bindingNumbers_5runs_numberAnnot.pdf>]
-<images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_3_runHistoryPlot.pdf, id=1355, 462.52798pt x 346.89601pt>
-File: images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_3_runHistoryPlot.pdf Graphic file (type pdf)
-<use images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_3_runHistoryPlot.pdf>
-Package pdftex.def Info: images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_3_runHistoryPlot.pdf  used on input line 88.
-(pdftex.def)             Requested size: 415.41025pt x 311.57362pt.
-<images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_3_bindingNumbers_numberAnnot.pdf, id=1356, 1951.29pt x 693.792pt>
-File: images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_3_bindingNumbers_numberAnnot.pdf Graphic file (type pdf)
-<use images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_3_bindingNumbers_numberAnnot.pdf>
-Package pdftex.def Info: images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_3_bindingNumbers_numberAnnot.pdf  used on input line 94.
-(pdftex.def)             Requested size: 415.41025pt x 172.90765pt.
-<images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_3_bindingTimeDuration_numberAnnot.pdf, id=1360, 1951.29pt x 693.792pt>
-File: images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_3_bindingTimeDuration_numberAnnot.pdf Graphic file (type pdf)
-<use images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_3_bindingTimeDuration_numberAnnot.pdf>
-Package pdftex.def Info: images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_3_bindingTimeDuration_numberAnnot.pdf  used on input line 153.
-(pdftex.def)             Requested size: 415.41025pt x 172.90765pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 213--215
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
 
  []
 
-[22
+<images//Results/3.1_noncoopNotBistable/shortRun_nonCyclic_highDiss_bindingNumbers_5runs.pdf, id=1274, 1669.37642pt x 581.54881pt>
+File: images//Results/3.1_noncoopNotBistable/shortRun_nonCyclic_highDiss_bindingNumbers_5runs.pdf Graphic file (type pdf)
+<use images//Results/3.1_noncoopNotBistable/shortRun_nonCyclic_highDiss_bindingNumbers_5runs.pdf>
+Package pdftex.def Info: images//Results/3.1_noncoopNotBistable/shortRun_nonCyclic_highDiss_bindingNumbers_5runs.pdf  used on input line 40.
+(pdftex.def)             Requested size: 415.41025pt x 144.71243pt.
+[20
 
- <./images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_3_runHistoryPlot.pdf>] [23 <./images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_3_bindingNumbers_numberAnnot.pdf>] [24 <./images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_3_bindingTimeDuration_numberAnnot.pdf>]
-<images//Results/3.2_nonCyclString/longRun_nonCyclic_highDiss_noCoopRem_1_runHistoryPlot.pdf, id=1503, 462.52798pt x 346.89601pt>
-File: images//Results/3.2_nonCyclString/longRun_nonCyclic_highDiss_noCoopRem_1_runHistoryPlot.pdf Graphic file (type pdf)
-<use images//Results/3.2_nonCyclString/longRun_nonCyclic_highDiss_noCoopRem_1_runHistoryPlot.pdf>
-Package pdftex.def Info: images//Results/3.2_nonCyclString/longRun_nonCyclic_highDiss_noCoopRem_1_runHistoryPlot.pdf  used on input line 251.
-(pdftex.def)             Requested size: 415.41025pt x 311.57362pt.
-<images//Results/3.2_nonCyclString/longRun_nonCyclic_highDiss_noCoopRem_4_runHistoryPlot.pdf, id=1504, 462.52798pt x 346.89601pt>
-File: images//Results/3.2_nonCyclString/longRun_nonCyclic_highDiss_noCoopRem_4_runHistoryPlot.pdf Graphic file (type pdf)
-<use images//Results/3.2_nonCyclString/longRun_nonCyclic_highDiss_noCoopRem_4_runHistoryPlot.pdf>
-Package pdftex.def Info: images//Results/3.2_nonCyclString/longRun_nonCyclic_highDiss_noCoopRem_4_runHistoryPlot.pdf  used on input line 258.
-(pdftex.def)             Requested size: 415.41025pt x 311.57362pt.
- [25 <./images//Results/3.2_nonCyclString/longRun_nonCyclic_highDiss_noCoopRem_1_runHistoryPlot.pdf>] [26 <./images//Results/3.2_nonCyclString/longRun_nonCyclic_highDiss_noCoopRem_4_runHistoryPlot.pdf>]
-<images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_noCoopRem_1_runHistoryPlot.pdf, id=1581, 462.52798pt x 346.89601pt>
+
+
+
+] [21 <./images//Results/3.1_noncoopNotBistable/longRun_nonCyclic_highDiss_2_runHistoryPlot.pdf> <./images//Results/3.1_noncoopNotBistable/shortRun_nonCyclic_highDiss_bindingNumbers_5runs.pdf
+
+pdfTeX warning: pdflatex (file ./images//Results/3.1_noncoopNotBistable/shortRun_nonCyclic_highDiss_bindingNumbers_5runs.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>] [22] [23]
+<images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_4_runHistoryPlot.pdf, id=1379, 412.22807pt x 320.05598pt>
+File: images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_4_runHistoryPlot.pdf Graphic file (type pdf)
+<use images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_4_runHistoryPlot.pdf>
+Package pdftex.def Info: images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_4_runHistoryPlot.pdf  used on input line 127.
+(pdftex.def)             Requested size: 415.41025pt x 322.53119pt.
+<images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_4_bindingNumbers.pdf, id=1386, 1674.97375pt x 1418.35928pt>
+File: images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_4_bindingNumbers.pdf Graphic file (type pdf)
+<use images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_4_bindingNumbers.pdf>
+Package pdftex.def Info: images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_4_bindingNumbers.pdf  used on input line 136.
+(pdftex.def)             Requested size: 415.41025pt x 351.7538pt.
+<images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_4_bindingTimeDuration.pdf, id=1389, 1644.328pt x 1418.35928pt>
+File: images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_4_bindingTimeDuration.pdf Graphic file (type pdf)
+<use images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_4_bindingTimeDuration.pdf>
+Package pdftex.def Info: images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_4_bindingTimeDuration.pdf  used on input line 144.
+(pdftex.def)             Requested size: 415.41025pt x 358.31143pt.
+ [24 <./images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_4_runHistoryPlot.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
+
+ []
+
+[25 <./images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_4_bindingNumbers.pdf>] [26 <./images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_4_bindingTimeDuration.pdf>]
+<images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_2_runHistoryPlot.pdf, id=1542, 412.22807pt x 320.05598pt>
+File: images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_2_runHistoryPlot.pdf Graphic file (type pdf)
+<use images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_2_runHistoryPlot.pdf>
+Package pdftex.def Info: images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_2_runHistoryPlot.pdf  used on input line 204.
+(pdftex.def)             Requested size: 415.41025pt x 322.53119pt.
+<images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_2_bindingTimeDuration.pdf, id=1549, 1644.328pt x 1418.35928pt>
+File: images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_2_bindingTimeDuration.pdf Graphic file (type pdf)
+<use images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_2_bindingTimeDuration.pdf>
+Package pdftex.def Info: images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_2_bindingTimeDuration.pdf  used on input line 213.
+(pdftex.def)             Requested size: 415.41025pt x 358.31143pt.
+<images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_2_bindingNumbers.pdf, id=1552, 1674.97375pt x 1418.35928pt>
+File: images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_2_bindingNumbers.pdf Graphic file (type pdf)
+<use images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_2_bindingNumbers.pdf>
+Package pdftex.def Info: images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_2_bindingNumbers.pdf  used on input line 222.
+(pdftex.def)             Requested size: 415.41025pt x 351.7538pt.
+ [27] [28 <./images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_2_runHistoryPlot.pdf>] [29 <./images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_2_bindingTimeDuration.pdf>] [30 <./images//Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_2_bindingNumbers.pdf>]
+<images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_wCoopRem_1_runHistoryPlot.pdf, id=1697, 418.1557pt x 320.05598pt>
+File: images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_wCoopRem_1_runHistoryPlot.pdf Graphic file (type pdf)
+<use images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_wCoopRem_1_runHistoryPlot.pdf>
+Package pdftex.def Info: images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_wCoopRem_1_runHistoryPlot.pdf  used on input line 303.
+(pdftex.def)             Requested size: 415.41025pt x 317.97475pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--316
+
+ []
+
+[31 <./images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_wCoopRem_1_runHistoryPlot.pdf>]
+<images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_noCoopRem_1_runHistoryPlot.pdf, id=1739, 412.22807pt x 320.05598pt>
 File: images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_noCoopRem_1_runHistoryPlot.pdf Graphic file (type pdf)
 <use images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_noCoopRem_1_runHistoryPlot.pdf>
-Package pdftex.def Info: images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_noCoopRem_1_runHistoryPlot.pdf  used on input line 288.
-(pdftex.def)             Requested size: 415.41025pt x 311.57362pt.
-<images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_noCoopRem_2_runHistoryPlot.pdf, id=1582, 462.52798pt x 346.89601pt>
+Package pdftex.def Info: images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_noCoopRem_1_runHistoryPlot.pdf  used on input line 324.
+(pdftex.def)             Requested size: 415.41025pt x 322.53119pt.
+<images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_noCoopRem_2_runHistoryPlot.pdf, id=1740, 412.22807pt x 320.05598pt>
 File: images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_noCoopRem_2_runHistoryPlot.pdf Graphic file (type pdf)
 <use images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_noCoopRem_2_runHistoryPlot.pdf>
-Package pdftex.def Info: images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_noCoopRem_2_runHistoryPlot.pdf  used on input line 295.
-(pdftex.def)             Requested size: 415.41025pt x 311.57362pt.
- [27 <./images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_noCoopRem_1_runHistoryPlot.pdf>]
-<images//Results/3.4_dissocRate/longRun_cyclic_highDiss_noCoopRem_3_runHistoryPlot.pdf, id=1621, 462.52798pt x 346.89601pt>
-File: images//Results/3.4_dissocRate/longRun_cyclic_highDiss_noCoopRem_3_runHistoryPlot.pdf Graphic file (type pdf)
-<use images//Results/3.4_dissocRate/longRun_cyclic_highDiss_noCoopRem_3_runHistoryPlot.pdf>
-Package pdftex.def Info: images//Results/3.4_dissocRate/longRun_cyclic_highDiss_noCoopRem_3_runHistoryPlot.pdf  used on input line 319.
-(pdftex.def)             Requested size: 415.41025pt x 311.57362pt.
-<images//Results/3.4_dissocRate/longRun_cyclic_lowDiss_noCoopRem_3_runHistoryPlot.pdf, id=1622, 462.52798pt x 346.89601pt>
+Package pdftex.def Info: images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_noCoopRem_2_runHistoryPlot.pdf  used on input line 333.
+(pdftex.def)             Requested size: 415.41025pt x 322.53119pt.
+ [32 <./images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_noCoopRem_1_runHistoryPlot.pdf>] [33 <./images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_noCoopRem_2_runHistoryPlot.pdf>]
+<images//Results/3.4_dissocRate/longRun_cyclic_lowDiss_noCoopRem_3_runHistoryPlot.pdf, id=1816, 462.52798pt x 346.89601pt>
 File: images//Results/3.4_dissocRate/longRun_cyclic_lowDiss_noCoopRem_3_runHistoryPlot.pdf Graphic file (type pdf)
 <use images//Results/3.4_dissocRate/longRun_cyclic_lowDiss_noCoopRem_3_runHistoryPlot.pdf>
-Package pdftex.def Info: images//Results/3.4_dissocRate/longRun_cyclic_lowDiss_noCoopRem_3_runHistoryPlot.pdf  used on input line 326.
+Package pdftex.def Info: images//Results/3.4_dissocRate/longRun_cyclic_lowDiss_noCoopRem_3_runHistoryPlot.pdf  used on input line 374.
 (pdftex.def)             Requested size: 415.41025pt x 311.57362pt.
- [28 <./images//Results/3.3_bistableSwitching/longRun_cyclic_highDiss_noCoopRem_2_runHistoryPlot.pdf>] [29 <./images//Results/3.4_dissocRate/longRun_cyclic_highDiss_noCoopRem_3_runHistoryPlot.pdf>] [30 <./images//Results/3.4_dissocRate/longRun_cyclic_lowDiss_noCoopRem_3_runHistoryPlot.pdf>]
-Overfull \hbox (10.99799pt too wide) in paragraph at lines 350--350
+<images//Results/3.4_dissocRate/longRun_cyclic_highDiss_noCoopRem_3_runHistoryPlot.pdf, id=1817, 462.52798pt x 346.89601pt>
+File: images//Results/3.4_dissocRate/longRun_cyclic_highDiss_noCoopRem_3_runHistoryPlot.pdf Graphic file (type pdf)
+<use images//Results/3.4_dissocRate/longRun_cyclic_highDiss_noCoopRem_3_runHistoryPlot.pdf>
+Package pdftex.def Info: images//Results/3.4_dissocRate/longRun_cyclic_highDiss_noCoopRem_3_runHistoryPlot.pdf  used on input line 383.
+(pdftex.def)             Requested size: 415.41025pt x 311.57362pt.
+ [34 <./images//Results/3.4_dissocRate/longRun_cyclic_lowDiss_noCoopRem_3_runHistoryPlot.pdf>] [35 <./images//Results/3.4_dissocRate/longRun_cyclic_highDiss_noCoopRem_3_runHistoryPlot.pdf>]
+Overfull \hbox (10.99799pt too wide) in paragraph at lines 426--426
 []|\T1/lmr/bx/n/10 (a)| 
  []
 
-<images//Results/3.5_boundariesBistability/maxReach0_0_HistogramPlot.pdf, id=1731, 722.7pt x 216.81pt>
+<images//Results/3.5_boundariesBistability/maxReach0_0_HistogramPlot.pdf, id=1897, 722.7pt x 216.81pt>
 File: images//Results/3.5_boundariesBistability/maxReach0_0_HistogramPlot.pdf Graphic file (type pdf)
 <use images//Results/3.5_boundariesBistability/maxReach0_0_HistogramPlot.pdf>
-Package pdftex.def Info: images//Results/3.5_boundariesBistability/maxReach0_0_HistogramPlot.pdf  used on input line 354.
+Package pdftex.def Info: images//Results/3.5_boundariesBistability/maxReach0_0_HistogramPlot.pdf  used on input line 430.
 (pdftex.def)             Requested size: 211.11382pt x 63.33313pt.
 
-Overfull \hbox (11.797pt too wide) in paragraph at lines 360--360
+Overfull \hbox (11.797pt too wide) in paragraph at lines 436--436
 []|\T1/lmr/bx/n/10 (b)| 
  []
 
-<images//Results/3.5_boundariesBistability/maxReach1_4_HistogramPlot.pdf, id=1732, 722.7pt x 216.81pt>
+<images//Results/3.5_boundariesBistability/maxReach1_4_HistogramPlot.pdf, id=1898, 722.7pt x 216.81pt>
 File: images//Results/3.5_boundariesBistability/maxReach1_4_HistogramPlot.pdf Graphic file (type pdf)
 <use images//Results/3.5_boundariesBistability/maxReach1_4_HistogramPlot.pdf>
-Package pdftex.def Info: images//Results/3.5_boundariesBistability/maxReach1_4_HistogramPlot.pdf  used on input line 363.
+Package pdftex.def Info: images//Results/3.5_boundariesBistability/maxReach1_4_HistogramPlot.pdf  used on input line 439.
 (pdftex.def)             Requested size: 211.11382pt x 63.33313pt.
 
-Overfull \hbox (10.51897pt too wide) in paragraph at lines 368--368
+Overfull \hbox (10.51897pt too wide) in paragraph at lines 444--444
 []|\T1/lmr/bx/n/10 (c)| 
  []
 
-<images//Results/3.5_boundariesBistability/maxReach2_2_HistogramPlot.pdf, id=1733, 722.7pt x 216.81pt>
+<images//Results/3.5_boundariesBistability/maxReach2_2_HistogramPlot.pdf, id=1899, 722.7pt x 216.81pt>
 File: images//Results/3.5_boundariesBistability/maxReach2_2_HistogramPlot.pdf Graphic file (type pdf)
 <use images//Results/3.5_boundariesBistability/maxReach2_2_HistogramPlot.pdf>
-Package pdftex.def Info: images//Results/3.5_boundariesBistability/maxReach2_2_HistogramPlot.pdf  used on input line 372.
+Package pdftex.def Info: images//Results/3.5_boundariesBistability/maxReach2_2_HistogramPlot.pdf  used on input line 448.
 (pdftex.def)             Requested size: 211.11382pt x 63.33313pt.
 
-Overfull \hbox (11.797pt too wide) in paragraph at lines 378--378
+Overfull \hbox (11.797pt too wide) in paragraph at lines 454--454
 []|\T1/lmr/bx/n/10 (d)| 
  []
 
-<images//Results/3.5_boundariesBistability/maxReach3_3_HistogramPlot.pdf, id=1734, 722.7pt x 216.81pt>
+<images//Results/3.5_boundariesBistability/maxReach3_3_HistogramPlot.pdf, id=1900, 722.7pt x 216.81pt>
 File: images//Results/3.5_boundariesBistability/maxReach3_3_HistogramPlot.pdf Graphic file (type pdf)
 <use images//Results/3.5_boundariesBistability/maxReach3_3_HistogramPlot.pdf>
-Package pdftex.def Info: images//Results/3.5_boundariesBistability/maxReach3_3_HistogramPlot.pdf  used on input line 381.
+Package pdftex.def Info: images//Results/3.5_boundariesBistability/maxReach3_3_HistogramPlot.pdf  used on input line 457.
 (pdftex.def)             Requested size: 211.11382pt x 63.33313pt.
 
-Overfull \hbox (10.67899pt too wide) in paragraph at lines 386--386
+Overfull \hbox (10.67899pt too wide) in paragraph at lines 462--462
 []|\T1/lmr/bx/n/10 (e)| 
  []
 
-<images//Results/3.5_boundariesBistability/maxReach4_3_HistogramPlot.pdf, id=1735, 722.7pt x 216.81pt>
+<images//Results/3.5_boundariesBistability/maxReach4_3_HistogramPlot.pdf, id=1901, 722.7pt x 216.81pt>
 File: images//Results/3.5_boundariesBistability/maxReach4_3_HistogramPlot.pdf Graphic file (type pdf)
 <use images//Results/3.5_boundariesBistability/maxReach4_3_HistogramPlot.pdf>
-Package pdftex.def Info: images//Results/3.5_boundariesBistability/maxReach4_3_HistogramPlot.pdf  used on input line 390.
+Package pdftex.def Info: images//Results/3.5_boundariesBistability/maxReach4_3_HistogramPlot.pdf  used on input line 466.
 (pdftex.def)             Requested size: 211.11382pt x 63.33313pt.
 
-Overfull \hbox (9.24142pt too wide) in paragraph at lines 396--396
+Overfull \hbox (9.24142pt too wide) in paragraph at lines 472--472
 []|\T1/lmr/bx/n/10 (f)| 
  []
 
-<images//Results/3.5_boundariesBistability/maxReach5_4_HistogramPlot.pdf, id=1736, 722.7pt x 216.81pt>
+<images//Results/3.5_boundariesBistability/maxReach5_4_HistogramPlot.pdf, id=1902, 722.7pt x 216.81pt>
 File: images//Results/3.5_boundariesBistability/maxReach5_4_HistogramPlot.pdf Graphic file (type pdf)
 <use images//Results/3.5_boundariesBistability/maxReach5_4_HistogramPlot.pdf>
-Package pdftex.def Info: images//Results/3.5_boundariesBistability/maxReach5_4_HistogramPlot.pdf  used on input line 399.
+Package pdftex.def Info: images//Results/3.5_boundariesBistability/maxReach5_4_HistogramPlot.pdf  used on input line 475.
 (pdftex.def)             Requested size: 211.11382pt x 63.33313pt.
 
-Overfull \hbox (11.15797pt too wide) in paragraph at lines 404--404
+Overfull \hbox (11.15797pt too wide) in paragraph at lines 480--480
 []|\T1/lmr/bx/n/10 (g)| 
  []
 
-<images//Results/3.5_boundariesBistability/maxReach6_4_HistogramPlot.pdf, id=1737, 722.7pt x 216.81pt>
+<images//Results/3.5_boundariesBistability/maxReach6_4_HistogramPlot.pdf, id=1903, 722.7pt x 216.81pt>
 File: images//Results/3.5_boundariesBistability/maxReach6_4_HistogramPlot.pdf Graphic file (type pdf)
 <use images//Results/3.5_boundariesBistability/maxReach6_4_HistogramPlot.pdf>
-Package pdftex.def Info: images//Results/3.5_boundariesBistability/maxReach6_4_HistogramPlot.pdf  used on input line 407.
+Package pdftex.def Info: images//Results/3.5_boundariesBistability/maxReach6_4_HistogramPlot.pdf  used on input line 483.
 (pdftex.def)             Requested size: 211.11382pt x 63.33313pt.
-[31
-
- <./images//Results/3.5_boundariesBistability/maxReach0_0_HistogramPlot.pdf> <./images//Results/3.5_boundariesBistability/maxReach1_4_HistogramPlot.pdf
+[36 <./images//Results/3.5_boundariesBistability/maxReach0_0_HistogramPlot.pdf> <./images//Results/3.5_boundariesBistability/maxReach1_4_HistogramPlot.pdf
 
 pdfTeX warning: pdflatex (file ./images//Results/3.5_boundariesBistability/maxReach1_4_HistogramPlot.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 > <./images//Results/3.5_boundariesBistability/maxReach2_2_HistogramPlot.pdf
@@ -1804,27 +1830,27 @@ pdfTeX warning: pdflatex (file ./images//Results/3.5_boundariesBistability/maxRe
 
 pdfTeX warning: pdflatex (file ./images//Results/3.5_boundariesBistability/maxReach6_4_HistogramPlot.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<images//Results/3.6_Bivalency/TotalComplete_example.png, id=1752, 211.992pt x 160.1985pt>
+<images//Results/3.6_Bivalency/TotalComplete_example.png, id=1917, 211.992pt x 160.1985pt>
 File: images//Results/3.6_Bivalency/TotalComplete_example.png Graphic file (type png)
 <use images//Results/3.6_Bivalency/TotalComplete_example.png>
-Package pdftex.def Info: images//Results/3.6_Bivalency/TotalComplete_example.png  used on input line 430.
+Package pdftex.def Info: images//Results/3.6_Bivalency/TotalComplete_example.png  used on input line 506.
 (pdftex.def)             Requested size: 415.41025pt x 313.95024pt.
-<images//Results/3.6_Bivalency/BivalentComplete_example.png, id=1754, 198.7425pt x 146.949pt>
+<images//Results/3.6_Bivalency/BivalentComplete_example.png, id=1919, 198.7425pt x 146.949pt>
 File: images//Results/3.6_Bivalency/BivalentComplete_example.png Graphic file (type png)
 <use images//Results/3.6_Bivalency/BivalentComplete_example.png>
-Package pdftex.def Info: images//Results/3.6_Bivalency/BivalentComplete_example.png  used on input line 437.
+Package pdftex.def Info: images//Results/3.6_Bivalency/BivalentComplete_example.png  used on input line 513.
 (pdftex.def)             Requested size: 415.41025pt x 307.18713pt.
-<images//Results/3.6_Bivalency/BivalentBistability_example.png, id=1755, 341.1144pt x 259.2084pt>
+<images//Results/3.6_Bivalency/BivalentBistability_example.png, id=1920, 341.1144pt x 259.2084pt>
 File: images//Results/3.6_Bivalency/BivalentBistability_example.png Graphic file (type png)
 <use images//Results/3.6_Bivalency/BivalentBistability_example.png>
-Package pdftex.def Info: images//Results/3.6_Bivalency/BivalentBistability_example.png  used on input line 444.
+Package pdftex.def Info: images//Results/3.6_Bivalency/BivalentBistability_example.png  used on input line 520.
 (pdftex.def)             Requested size: 415.41025pt x 315.68004pt.
-) [32 <./images//Results/3.6_Bivalency/TotalComplete_example.png>] [33 <./images//Results/3.6_Bivalency/BivalentComplete_example.png>] [34 <./images//Results/3.6_Bivalency/BivalentBistability_example.png>]
+) [37 <./images//Results/3.6_Bivalency/TotalComplete_example.png>] [38 <./images//Results/3.6_Bivalency/BivalentComplete_example.png>] [39 <./images//Results/3.6_Bivalency/BivalentBistability_example.png>]
 \openout2 = `chapters/4discussion.aux'.
 
  (chapters/4discussion.tex
 Chapter 4.
-) [35
+) [40
 
 
 
@@ -1836,65 +1862,67 @@ Chapter 4.
 Chapter 5.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <14.4> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 7.
-<images//Results/outlook/StrongExtenders_cyclic_1_runHistoryPlot.pdf, id=1780, 462.52798pt x 346.89601pt>
+<images//Results/outlook/StrongExtenders_cyclic_1_runHistoryPlot.pdf, id=1946, 462.52798pt x 346.89601pt>
 File: images//Results/outlook/StrongExtenders_cyclic_1_runHistoryPlot.pdf Graphic file (type pdf)
 <use images//Results/outlook/StrongExtenders_cyclic_1_runHistoryPlot.pdf>
 Package pdftex.def Info: images//Results/outlook/StrongExtenders_cyclic_1_runHistoryPlot.pdf  used on input line 18.
 (pdftex.def)             Requested size: 415.41025pt x 311.57362pt.
-
-LaTeX Warning: Reference `table:outlook_nonCoop' on page 36 undefined on input line 25.
-
-[36
+[41
 
 
 
 
-]) [37 <./images//Results/outlook/StrongExtenders_cyclic_1_runHistoryPlot.pdf>]
+]) [42 <./images//Results/outlook/StrongExtenders_cyclic_1_runHistoryPlot.pdf>]
 \openout2 = `back/appendix_a.aux'.
 
  (back/appendix_a.tex
 Appendix A.
-<images//enzymes/table.pdf, id=1830, 1603.9925pt x 983.675pt>
+<images//enzymes/table.pdf, id=1996, 1603.9925pt x 983.675pt>
 File: images//enzymes/table.pdf Graphic file (type pdf)
 <use images//enzymes/table.pdf>
 Package pdftex.def Info: images//enzymes/table.pdf  used on input line 8.
 (pdftex.def)             Requested size: 415.41025pt x 254.75883pt.
-[38
+
+Overfull \hbox (31.82472pt too wide) in paragraph at lines 17--46
+ [][] 
+ []
+
+[43
 
 
 
 
- <./images//enzymes/table.pdf>]) [39]
+ <./images//enzymes/table.pdf>]) [44]
 \openout2 = `back/appendix_b.aux'.
 
  (back/appendix_b.tex
 Appendix B.
-<images//appendix_b/31_longRun_nonCyclic_highDiss_0_runHistoryPlot.pdf, id=2075, 462.52798pt x 346.89601pt>
+<images//appendix_b/31_longRun_nonCyclic_highDiss_0_runHistoryPlot.pdf, id=2242, 462.52798pt x 346.89601pt>
 File: images//appendix_b/31_longRun_nonCyclic_highDiss_0_runHistoryPlot.pdf Graphic file (type pdf)
 <use images//appendix_b/31_longRun_nonCyclic_highDiss_0_runHistoryPlot.pdf>
-Package pdftex.def Info: images//appendix_b/31_longRun_nonCyclic_highDiss_0_runHistoryPlot.pdf  used on input line 7.
+Package pdftex.def Info: images//appendix_b/31_longRun_nonCyclic_highDiss_0_runHistoryPlot.pdf  used on input line 8.
 (pdftex.def)             Requested size: 203.5533pt x 152.66647pt.
-<images//appendix_b/31_longRun_nonCyclic_highDiss_1_runHistoryPlot.pdf, id=2076, 462.52798pt x 346.89601pt>
+<images//appendix_b/31_longRun_nonCyclic_highDiss_1_runHistoryPlot.pdf, id=2243, 462.52798pt x 346.89601pt>
 File: images//appendix_b/31_longRun_nonCyclic_highDiss_1_runHistoryPlot.pdf Graphic file (type pdf)
 <use images//appendix_b/31_longRun_nonCyclic_highDiss_1_runHistoryPlot.pdf>
-Package pdftex.def Info: images//appendix_b/31_longRun_nonCyclic_highDiss_1_runHistoryPlot.pdf  used on input line 8.
+Package pdftex.def Info: images//appendix_b/31_longRun_nonCyclic_highDiss_1_runHistoryPlot.pdf  used on input line 9.
 (pdftex.def)             Requested size: 203.5533pt x 152.66647pt.
-<images//appendix_b/31_longRun_nonCyclic_highDiss_2_runHistoryPlot.pdf, id=2077, 462.52798pt x 346.89601pt>
+<images//appendix_b/31_longRun_nonCyclic_highDiss_2_runHistoryPlot.pdf, id=2244, 462.52798pt x 346.89601pt>
 File: images//appendix_b/31_longRun_nonCyclic_highDiss_2_runHistoryPlot.pdf Graphic file (type pdf)
 <use images//appendix_b/31_longRun_nonCyclic_highDiss_2_runHistoryPlot.pdf>
-Package pdftex.def Info: images//appendix_b/31_longRun_nonCyclic_highDiss_2_runHistoryPlot.pdf  used on input line 9.
+Package pdftex.def Info: images//appendix_b/31_longRun_nonCyclic_highDiss_2_runHistoryPlot.pdf  used on input line 10.
 (pdftex.def)             Requested size: 203.5533pt x 152.66647pt.
-<images//appendix_b/31_longRun_nonCyclic_highDiss_3_runHistoryPlot.pdf, id=2078, 462.52798pt x 346.89601pt>
+<images//appendix_b/31_longRun_nonCyclic_highDiss_3_runHistoryPlot.pdf, id=2245, 462.52798pt x 346.89601pt>
 File: images//appendix_b/31_longRun_nonCyclic_highDiss_3_runHistoryPlot.pdf Graphic file (type pdf)
 <use images//appendix_b/31_longRun_nonCyclic_highDiss_3_runHistoryPlot.pdf>
-Package pdftex.def Info: images//appendix_b/31_longRun_nonCyclic_highDiss_3_runHistoryPlot.pdf  used on input line 10.
+Package pdftex.def Info: images//appendix_b/31_longRun_nonCyclic_highDiss_3_runHistoryPlot.pdf  used on input line 11.
 (pdftex.def)             Requested size: 203.5533pt x 152.66647pt.
 
-Underfull \hbox (badness 1655) in paragraph at lines 7--12
+Underfull \hbox (badness 1655) in paragraph at lines 8--13
 [][] []
  []
 
-[40
+[45
 
 
 
@@ -1909,32 +1937,32 @@ pdfTeX warning: pdflatex (file ./images//appendix_b/31_longRun_nonCyclic_highDis
 
 pdfTeX warning: pdflatex (file ./images//appendix_b/31_longRun_nonCyclic_highDiss_3_runHistoryPlot.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_0_runHistoryPlot.pdf, id=2210, 462.52798pt x 346.89601pt>
+<images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_0_runHistoryPlot.pdf, id=2377, 462.52798pt x 346.89601pt>
 File: images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_0_runHistoryPlot.pdf Graphic file (type pdf)
 <use images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_0_runHistoryPlot.pdf>
-Package pdftex.def Info: images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_0_runHistoryPlot.pdf  used on input line 19.
+Package pdftex.def Info: images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_0_runHistoryPlot.pdf  used on input line 20.
 (pdftex.def)             Requested size: 203.5533pt x 152.66647pt.
-<images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_1_runHistoryPlot.pdf, id=2211, 462.52798pt x 346.89601pt>
+<images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_1_runHistoryPlot.pdf, id=2378, 462.52798pt x 346.89601pt>
 File: images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_1_runHistoryPlot.pdf Graphic file (type pdf)
 <use images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_1_runHistoryPlot.pdf>
-Package pdftex.def Info: images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_1_runHistoryPlot.pdf  used on input line 20.
+Package pdftex.def Info: images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_1_runHistoryPlot.pdf  used on input line 21.
 (pdftex.def)             Requested size: 203.5533pt x 152.66647pt.
-<images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_2_runHistoryPlot.pdf, id=2212, 462.52798pt x 346.89601pt>
+<images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_2_runHistoryPlot.pdf, id=2379, 462.52798pt x 346.89601pt>
 File: images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_2_runHistoryPlot.pdf Graphic file (type pdf)
 <use images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_2_runHistoryPlot.pdf>
-Package pdftex.def Info: images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_2_runHistoryPlot.pdf  used on input line 21.
+Package pdftex.def Info: images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_2_runHistoryPlot.pdf  used on input line 22.
 (pdftex.def)             Requested size: 203.5533pt x 152.66647pt.
-<images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_3_runHistoryPlot.pdf, id=2213, 462.52798pt x 346.89601pt>
+<images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_3_runHistoryPlot.pdf, id=2380, 462.52798pt x 346.89601pt>
 File: images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_3_runHistoryPlot.pdf Graphic file (type pdf)
 <use images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_3_runHistoryPlot.pdf>
-Package pdftex.def Info: images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_3_runHistoryPlot.pdf  used on input line 22.
+Package pdftex.def Info: images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_3_runHistoryPlot.pdf  used on input line 23.
 (pdftex.def)             Requested size: 203.5533pt x 152.66647pt.
 
-Underfull \hbox (badness 1655) in paragraph at lines 19--24
+Underfull \hbox (badness 1655) in paragraph at lines 20--25
 [][] []
  []
 
-) [41 <./images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_0_runHistoryPlot.pdf> <./images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_1_runHistoryPlot.pdf
+) [46 <./images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_0_runHistoryPlot.pdf> <./images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_1_runHistoryPlot.pdf
 
 pdfTeX warning: pdflatex (file ./images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_1_runHistoryPlot.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 > <./images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_2_runHistoryPlot.pdf
@@ -1943,39 +1971,35 @@ pdfTeX warning: pdflatex (file ./images//appendix_b/32_longRun_nonCyclic_highDis
 > <./images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_3_runHistoryPlot.pdf
 
 pdfTeX warning: pdflatex (file ./images//appendix_b/32_longRun_nonCyclic_highDiss_wCoopRem_3_runHistoryPlot.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->] [42
+>] [47
 
 
 
-] [43] [44]
+] [48] [49]
 \openout2 = `back/printbox.aux'.
 
- (back/printbox.tex) [45
+ (back/printbox.tex) [50
 
 
 ] (main.aux (chapters/1theoreticalBackground.aux) (chapters/2methods.aux) (chapters/3results.aux) (chapters/4discussion.aux) (chapters/5outlook.aux) (back/appendix_a.aux) (back/appendix_b.aux) (back/printbox.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6BE51685CD2A99DED6C5A3F24A343713;8417.
-
-
-LaTeX Warning: There were undefined references.
-
+(rerunfilecheck)             Checksum: 4926082CD3910BCDCB19DC49073FCC89;8575.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42959 strings out of 479663
- 815007 string characters out of 2873806
- 1686501 words of memory out of 3000000
- 58922 multiletter control sequences out of 15000+200000
+ 43014 strings out of 479663
+ 816801 string characters out of 2873806
+ 1692113 words of memory out of 3000000
+ 58962 multiletter control sequences out of 15000+200000
  492732 words of font info for 89 fonts, out of 3000000 for 9000
  1146 hyphenation exceptions out of 8191
- 122i,15n,141p,1801b,2319s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 122i,15n,141p,1343b,2319s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsso12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb>
-Output written on main.pdf (51 pages, 11781908 bytes).
+Output written on main.pdf (56 pages, 11889125 bytes).
 PDF statistics:
- 2523 PDF objects out of 2984 (max. 8388607)
- 170 named destinations out of 1000 (max. 500000)
- 685 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2695 PDF objects out of 2984 (max. 8388607)
+ 179 named destinations out of 1000 (max. 500000)
+ 677 words of extra memory for PDF output out of 10000 (max. 10000000)
 
