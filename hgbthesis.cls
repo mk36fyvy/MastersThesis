@@ -438,6 +438,10 @@ This work is published under the conditions of the
 		\vspace{12mm}
 		\noindent
 		\@author
+		\par
+		\vspace{20mm}
+		\noindent
+		\includegraphics{Signature.pdf}
 	\end{english}
 }
 
