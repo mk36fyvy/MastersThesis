@@ -51,8 +51,13 @@
 
 %% Custom abbreviations:
 
-    \def\ed/{\textit{EpiDynaST}}
+    \def\ed/{\texttt{EpiDynaST}}
     \newcommand{\source}{\color{red}[source]\color{black}}
+    \def\me/{\textit{me}}
+    \def\ac/{\textit{ac}}
+    % \newcommand{\circled}[1]{\raisebox{.5pt}{\textcircled{\raisebox{-.9pt} {#1}}}}
+    \RequirePackage{tikz}
+    \newcommand*\circled[1]{\tikz[baseline=(char.base)]{\node[shape=circle,draw,inner sep=2pt] (char) {#1};}}
 
     % Plots
     % \newcommand{\includeheatmap}[1]{\includegraphics[width=.9\textheight, angle=90]{#1.pdf}} % some heatmaps overflow to the right of page

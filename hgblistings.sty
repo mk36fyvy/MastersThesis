@@ -9,7 +9,7 @@
 \RequirePackage{ifthen}
 \RequirePackage{textcomp}	%% required for upquote option
 
-\RequirePackage{xcolor}
+\RequirePackage[usenames,dvipsnames,svgnames,table]{xcolor}
 \definecolor{ListingsBackgroundColor}{gray}{0.95}
 
 \RequirePackage{listingsutf8}
@@ -22,7 +22,7 @@ identifierstyle=,%\sffamily, %\bfseries
 commentstyle=\normalfont\itshape,%
 stringstyle=\ttfamily,%
 showstringspaces=false,%
-columns = flexible,% fixed, 
+columns = flexible,% fixed,
 breaklines=true,%
 tabsize=2, %
 backgroundcolor=\color{ListingsBackgroundColor},
@@ -405,7 +405,7 @@ keepspaces=true,%
 {See the error note inserted in the document output for details.}{}%
 \begin{quote}
 \color{red}\textbf{NOTE:} The \texttt{lstlisting} environment has been deliberately disabled in this setup.
-Use \emph{inline code} (breakable and \emph{without} a caption) or create a \emph{float container} with 
+Use \emph{inline code} (breakable and \emph{without} a caption) or create a \emph{float container} with
 \texttt{{\textbackslash}begin\{program\} \ldots {\textbackslash}end\{program\}} instead!
 See the \texttt{hgbthesis} tutorial for examples.
 \end{quote}%

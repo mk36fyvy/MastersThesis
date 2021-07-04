@@ -15,7 +15,7 @@
 
 \RequirePackage[]{algpseudocode}	% imports algpseudocode + algorithmicx (use 'noend' to turn off 'end')
 \RequirePackage{calc}				% for numeric calculations
-\RequirePackage{xcolor}
+\RequirePackage[usenames,dvipsnames,svgnames,table]{xcolor}
 
 % Colors to be used in algorithms (can be redefined locally if desired)
 %\definecolor{AlgKeywordColor}{named}{black}
@@ -51,7 +51,7 @@
 
 % Use SF font and color for procedure and function names:
 \newcommand{\@AlgTextProc}[1]{\textcolor{AlgProcedureColor}{\textsf{#1}}}
-\algrenewcommand\textproc{\@AlgTextProc}			
+\algrenewcommand\textproc{\@AlgTextProc}
 
 % Redefinitions to remove wrong space when \algorithmicprocedure is empty.
 % Inserts an empty () parameter list when no parameters are supplied:
@@ -60,7 +60,7 @@
 		{}{\algorithmicprocedure\ }%
 		\textproc{#1}\hskip0.75pt(#2)}%
   {\algorithmicend\ \algorithmicprocedure}%
-	
+
 \algdef{SE}[FUNCTION]{Function}{EndFunction}[2]{%
 	\ifthenelse{\equal{\algorithmicfunction}{}}%
 		{}{\algorithmicfunction\ }%
@@ -81,7 +81,7 @@
 % Note that the statement text must be passed as an argument in {...} brackets
 \newcommand*{\StateL}[1]{\State \parbox[t]{\linewidth-\ALG@thistlm}{#1\strut}}%
 
-% \StateNN[<nesting>]{<text>} creates non-numbered statements like algorithmicx's \Statex 
+% \StateNN[<nesting>]{<text>} creates non-numbered statements like algorithmicx's \Statex
 % command but provides consistent indentation inside nested constructs and over multiple lines.
 % The optional integer argument [<nesting>] can be used to specify the nesting depth
 % to counteract a bug in algorithmicx (nesting level is not set properly before the first \State
@@ -104,6 +104,6 @@
 
 \ifthenelse{\equal{\bbl@main@language}{german} \or \equal{\bbl@main@language}{ngerman}}%
 	{\floatname{algorithm}{Algorithmus}}{}%
-	
+
 \ifthenelse{\equal{\bbl@main@language}{english}}%
 	{\floatname{algorithm}{Algorithm}}{}%

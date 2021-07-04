@@ -7,96 +7,122 @@
 \contentsline {chapter}{Declaration}{iv}{chapter*.1}%
 \babel@toc {english}{}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {1}Theoretical Background}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {1}Biological Background}{1}{chapter.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Eukaryotic transcription regulation}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.1}Chromatin}{1}{section.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.1}Chromatin}{1}{subsection.1.1.1}%
+\contentsline {section}{\numberline {1.2}Chemical histone modification}{2}{section.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.2}Histone-modifying enzymes}{2}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.3}Bivalency}{3}{section.1.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1.3}Bivalency}{3}{subsection.1.1.3}%
+\contentsline {chapter}{\numberline {2}Theoretical Background}{5}{chapter.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Dynamic histone PTM models}{4}{section.1.2}%
+\contentsline {section}{\numberline {2.1}Chemical master equation}{5}{section.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.1}Chemical master equation}{4}{subsection.1.2.1}%
+\contentsline {section}{\numberline {2.2}Dynamic histone PTM models}{5}{section.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.2}Gillespie's algorithm}{5}{subsection.1.2.2}%
+\contentsline {section}{\numberline {2.3}Stochastic simulation algorithm}{6}{section.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.3}\textit {EpiDynaST}}{6}{subsection.1.2.3}%
+\contentsline {section}{\numberline {2.4}\texttt {EpiDynaST}}{7}{section.2.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}Epigenetic fitness landscapes}{7}{section.1.3}%
+\contentsline {subsection}{\numberline {2.4.1}Chromatin Model}{7}{subsection.2.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.1}From landscape to vector field}{7}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {2.4.2}Enzyme model}{8}{subsection.2.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.2}Monostable landscapes}{8}{subsection.1.3.2}%
+\contentsline {section}{\numberline {2.5}Previous work}{9}{section.2.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3.3}Multistable landscapes}{9}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {2.5.1}Monostable states}{9}{subsection.2.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}Impact of this work}{12}{section.1.4}%
+\contentsline {subsection}{\numberline {2.5.2}Bi- and multistable states}{10}{subsection.2.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Methods}{13}{chapter.2}%
+\contentsline {subsection}{\numberline {2.5.3}Bistable switching}{13}{subsection.2.5.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Chromatin Model}{13}{section.2.1}%
+\contentsline {section}{\numberline {2.6}Impact of this work}{13}{section.2.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Enzyme models}{14}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Methods}{14}{chapter.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Enzymes in \textit {EpiDynaST}}{14}{subsection.2.2.1}%
+\contentsline {section}{\numberline {3.1}Chromatin Specifications}{14}{section.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}Enzyme types}{14}{subsection.2.2.2}%
+\contentsline {section}{\numberline {3.2}Enzyme specifications}{14}{section.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}Enzyme rule sets}{17}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {3.2.1}Enzyme types}{15}{subsection.3.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Simulation details}{18}{section.2.3}%
+\contentsline {subsubsection}{Linear modifier enzymes}{15}{subsection.3.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Results}{20}{chapter.3}%
+\contentsline {subsubsection}{Cooperative modifier enzymes}{15}{figure.caption.9}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Non-cooperative enzymes do not entail bistable systems}{20}{section.3.1}%
+\contentsline {subsubsection}{Random modifier enzymes}{16}{figure.caption.10}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Bistability on a non-cyclic nucleosome string}{24}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.2}Enzyme rule sets}{17}{subsection.3.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Impact of cooperative enzymes}{24}{subsection.3.2.1}%
+\contentsline {section}{\numberline {3.3}Simulation details}{17}{section.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}Bistable switching on a non-cyclic string}{27}{subsection.3.2.2}%
+\contentsline {chapter}{\numberline {4}Results}{19}{chapter.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Bistable switching on a cyclic string}{31}{section.3.3}%
+\contentsline {section}{\numberline {4.1}Bistability without cooperative enzymes}{19}{section.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Influence of the dissociation rate}{34}{section.3.4}%
+\contentsline {subsection}{\numberline {4.1.1}Influence of noise}{19}{subsection.4.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}The boundaries of bistability}{36}{section.3.5}%
+\contentsline {subsection}{\numberline {4.1.2}Bistability through indirect cooperativity}{22}{subsection.4.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.6}Bivalency}{37}{section.3.6}%
+\contentsline {section}{\numberline {4.2}Direct cooperativity and bistability on a non-cyclic string}{24}{section.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Discussion}{40}{chapter.4}%
+\contentsline {subsection}{\numberline {4.2.1}Impact of cooperative enzymes}{24}{subsection.4.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Conditions for bistability}{40}{section.4.1}%
+\contentsline {subsection}{\numberline {4.2.2}Bistable switching on a non-cyclic string}{27}{subsection.4.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Proposed mechanism for bistable switching}{40}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.3}Bivalent switching on a non-cyclic string}{30}{subsection.4.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}Bistable switching: a biologically useful phenomenon}{40}{subsection.4.2.1}%
+\contentsline {section}{\numberline {4.3}Bistable switching on a cyclic string}{33}{section.4.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.2}cyclic}{40}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.3.1}Achieving bistable switching}{33}{subsection.4.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.3}non-cyclic}{40}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.3.2}Length of macrostates}{35}{subsection.4.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Outlook}{41}{chapter.5}%
+\contentsline {subsection}{\numberline {4.3.3}Enzyme contributions per macrostate}{37}{subsection.4.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Make \textit {EpiDynaST} account for recent biological findings}{41}{section.5.1}%
+\contentsline {section}{\numberline {4.4}The boundaries of bistability}{39}{section.4.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Explore recently discovered non-cooperative edge case}{41}{section.5.2}%
+\contentsline {subsection}{\numberline {4.4.1}Influence of the dissociation rate}{39}{subsection.4.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Specifications}{43}{appendix.A}%
+\contentsline {subsection}{\numberline {4.4.2}Cooperative enzyme reach}{41}{subsection.4.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Summary of enzyme types}{43}{section.A.1}%
+\contentsline {chapter}{\numberline {5}Discussion}{44}{chapter.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.2}Summary of simulation parameters}{43}{section.A.2}%
+\contentsline {section}{\numberline {5.1}Factors which influence bistability}{44}{section.5.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {B}Additional runs}{45}{appendix.B}%
+\contentsline {section}{\numberline {5.2}Mechanisms of bistable switching}{46}{section.5.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {B.1}Additional runs from section \ref {sec:ResNon-cooperative}}{45}{section.B.1}%
+\contentsline {subsection}{\numberline {5.2.1}Non-cyclic case with cooperative removers}{46}{subsection.5.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {B.2}Additional runs from section \ref {sec:ResNonCyc}}{46}{section.B.2}%
+\contentsline {subsection}{\numberline {5.2.2}Cyclic case without cooperative removers}{48}{subsection.5.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{References}{47}{appendix*.39}%
+\contentsline {chapter}{\numberline {6}Outlook}{49}{chapter.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{Literature}{47}{section*.40}%
+\contentsline {chapter}{\numberline {A}Specifications}{50}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Exemplary \texttt {EpiDynaST} run files}{50}{section.A.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.1}State file}{50}{subsection.A.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.2}Rule file}{50}{subsection.A.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {A.1.3}Param file}{53}{subsection.A.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}Summary of enzyme types}{54}{section.A.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {B}Additional runs}{55}{appendix.B}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B.1}Additional runs from section \ref {sec:ResNonCyc}}{55}{section.B.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {C}Source Code}{56}{appendix.C}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C.1}Used software}{56}{section.C.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C.2}Data and scripts}{56}{section.C.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {C.3}Thesis \LaTeX {} code}{56}{section.C.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{References}{57}{appendix*.40}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Literature}{57}{section*.41}%

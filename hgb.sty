@@ -109,7 +109,7 @@
 \RequirePackage[percent]{overpic}	% to allow text/graphics overlays on pictures
 \RequirePackage{pict2e}				% extends the LaTeX 'picture' environment
 
-\RequirePackage{xcolor}
+\RequirePackage[usenames,dvipsnames,svgnames,table]{xcolor}
 \newcommand{\@MissingArg}[1]{\textcolor{red}{#1}}
 
 \RequirePackage[T1,hyphens,obeyspaces,spaces,lowtilde]{url}
@@ -136,7 +136,7 @@
 	linktocpage = true,				% make page number, not text, be link on TOC, LOF and LOT
 	colorlinks = false,				% don't uses colored links (because this shows up in printing!)
 	pdfborder = {0 0 0},			% use a thinner (0.5pt) border around all PDF links
-	% allbordercolors = {0 0 0.8},	% dark blue border for all types of links
+	allbordercolors = {0 0 0.8},	% dark blue border for all types of links 
 	breaklinks = true				% allow links to break over lines by making links over multiple lines
 }	%see https://www.tug.org/applications/hyperref/manual.html
 

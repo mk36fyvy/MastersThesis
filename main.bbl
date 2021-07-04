@@ -19,6 +19,238 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{prohaska2010innovation}{article}{}
+      \name{author}{3}{}{%
+        {{hash=80f3178d4829e4bb792085e7cef32c83}{%
+           family={Prohaska},
+           familyi={P\bibinitperiod},
+           given={Sonja\bibnamedelima J},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=9982debdce05bebbf7a7f24842a44650}{%
+           family={Stadler},
+           familyi={S\bibinitperiod},
+           given={Peter\bibnamedelima F},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=bc94f372aa2760ea95b278844dc8dcd5}{%
+           family={Krakauer},
+           familyi={K\bibinitperiod},
+           given={David\bibnamedelima C},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6975d7f59fcc3b023b1661dd9c5af210}
+      \strng{fullhash}{6975d7f59fcc3b023b1661dd9c5af210}
+      \strng{bibnamehash}{6975d7f59fcc3b023b1661dd9c5af210}
+      \strng{authorbibnamehash}{6975d7f59fcc3b023b1661dd9c5af210}
+      \strng{authornamehash}{6975d7f59fcc3b023b1661dd9c5af210}
+      \strng{authorfullhash}{6975d7f59fcc3b023b1661dd9c5af210}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of theoretical biology}
+      \field{number}{1}
+      \field{title}{Innovation in gene regulation: the case of chromatin computation}
+      \field{volume}{265}
+      \field{year}{2010}
+      \field{pages}{27\bibrangedash 44}
+      \range{pages}{18}
+    \endentry
+    \entry{selleck2001histone}{article}{}
+      \name{author}{7}{}{%
+        {{hash=2e1c4713104c9989119f82b0ce8bed75}{%
+           family={Selleck},
+           familyi={S\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+        {{hash=bfccdef44d199549f280097d113c7318}{%
+           family={Howley},
+           familyi={H\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=be20cf70d3f1e2538582c6235ef8fa74}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={Qiaojun},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=07cb747a3e60968714b47aeba7c3b355}{%
+           family={Podolny},
+           familyi={P\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+        {{hash=e07d9b3e31e8735983f20d52b361b491}{%
+           family={Fried},
+           familyi={F\bibinitperiod},
+           given={Michael\bibnamedelima G},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=dda73c43f1efbb0f0505f770b03fea7b}{%
+           family={Buratowski},
+           familyi={B\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=79ab3e4c66449d093e19cdd8b686de93}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Song},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{408ef41aaa1db778879aa5be813358b3}
+      \strng{fullhash}{c37ba2139ba895a7748b5c21b2947b0f}
+      \strng{bibnamehash}{408ef41aaa1db778879aa5be813358b3}
+      \strng{authorbibnamehash}{408ef41aaa1db778879aa5be813358b3}
+      \strng{authornamehash}{408ef41aaa1db778879aa5be813358b3}
+      \strng{authorfullhash}{c37ba2139ba895a7748b5c21b2947b0f}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature structural biology}
+      \field{number}{8}
+      \field{title}{A histone fold TAF octamer within the yeast TFIID transcriptional coactivator}
+      \field{volume}{8}
+      \field{year}{2001}
+      \field{pages}{695\bibrangedash 700}
+      \range{pages}{6}
+    \endentry
+    \entry{slesarev1998evidence}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a38191c3c9f0a0366c98b3af39dc295b}{%
+           family={Slesarev},
+           familyi={S\bibinitperiod},
+           given={Alexei\bibnamedelima I},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=4ae557f1926fc931204bcc5569376371}{%
+           family={Belova},
+           familyi={B\bibinitperiod},
+           given={Galina\bibnamedelima I},
+           giveni={G\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=85496839cd28fffdbf5d46b47a644f7e}{%
+           family={Kozyavkin},
+           familyi={K\bibinitperiod},
+           given={Sergei\bibnamedelima A},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=9e65e9af25fb73020f35066cf22193b6}{%
+           family={Lake},
+           familyi={L\bibinitperiod},
+           given={James\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{079279bce8fd021eea23a71df0c4123c}
+      \strng{fullhash}{f959fa38a9604e25c84184f06767f73c}
+      \strng{bibnamehash}{079279bce8fd021eea23a71df0c4123c}
+      \strng{authorbibnamehash}{079279bce8fd021eea23a71df0c4123c}
+      \strng{authornamehash}{079279bce8fd021eea23a71df0c4123c}
+      \strng{authorfullhash}{f959fa38a9604e25c84184f06767f73c}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nucleic acids research}
+      \field{number}{2}
+      \field{title}{Evidence for an early prokaryotic origin of histones H2A and H4 prior to the emergence of eukaryotes}
+      \field{volume}{26}
+      \field{year}{1998}
+      \field{pages}{427\bibrangedash 430}
+      \range{pages}{4}
+    \endentry
+    \entry{de2005organization}{article}{}
+      \name{author}{4}{}{%
+        {{hash=db73f58d191d0c796d2684903248665f}{%
+           family={Espina},
+           familyi={E\bibinitperiod},
+           given={Susana\bibnamedelimb Moreno\bibnamedelima Dìaz},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim D\bibinitperiod},
+           prefix={de\bibnamedelima la},
+           prefixi={d\bibinitperiod\bibinitdelim l\bibinitperiod}}}%
+        {{hash=b67c108c2b1ae31429cc0745e3c08f81}{%
+           family={Alverca},
+           familyi={A\bibinitperiod},
+           given={Elsa},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1378b81f4adb4869f03f7e655bca55d0}{%
+           family={Cuadrado},
+           familyi={C\bibinitperiod},
+           given={Angeles},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fafc10a52dcd841f9d62b72bc6a1ba08}{%
+           family={Franca},
+           familyi={F\bibinitperiod},
+           given={Susana},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{ecff285640919026a0a4859adfdc694f}
+      \strng{fullhash}{91ff8b00ae4217d15b7384e25e1293cc}
+      \strng{bibnamehash}{ecff285640919026a0a4859adfdc694f}
+      \strng{authorbibnamehash}{ecff285640919026a0a4859adfdc694f}
+      \strng{authornamehash}{ecff285640919026a0a4859adfdc694f}
+      \strng{authorfullhash}{91ff8b00ae4217d15b7384e25e1293cc}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European journal of cell biology}
+      \field{number}{2-3}
+      \field{title}{Organization of the genome and gene expression in a nuclear environment lacking histones and nucleosomes: the amazing dinoflagellates}
+      \field{volume}{84}
+      \field{year}{2005}
+      \field{pages}{137\bibrangedash 149}
+      \range{pages}{13}
+    \endentry
+    \entry{qin2019architects}{article}{}
+      \name{author}{4}{}{%
+        {{hash=24b5df9802acece15f6c6437087c9761}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=ed1715acc15b31864f672051408f7545}{%
+           family={Erkelens},
+           familyi={E\bibinitperiod},
+           given={AM},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0feaba25013f2844f15ef79f526e4c9c}{%
+           family={Ben\bibnamedelima Bdira},
+           familyi={B\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b37d9df0ca4a6baae4f84aee92594260}{%
+           family={Dame},
+           familyi={D\bibinitperiod},
+           given={RT},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society}%
+      }
+      \strng{namehash}{39c4960e706eaf5443cef2204b350558}
+      \strng{fullhash}{2bd274a349872d44bd618be30a4b3b1c}
+      \strng{bibnamehash}{39c4960e706eaf5443cef2204b350558}
+      \strng{authorbibnamehash}{39c4960e706eaf5443cef2204b350558}
+      \strng{authornamehash}{39c4960e706eaf5443cef2204b350558}
+      \strng{authorfullhash}{2bd274a349872d44bd618be30a4b3b1c}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Open biology}
+      \field{number}{12}
+      \field{title}{The architects of bacterial DNA bridges: a structurally and functionally conserved family of proteins}
+      \field{volume}{9}
+      \field{year}{2019}
+      \field{pages}{190223}
+      \range{pages}{1}
+    \endentry
     \entry{berg2015stryer}{book}{}
       \name{author}{3}{}{%
         {{hash=4c776af3b9be9917165e6fc1ce45b873}{%
@@ -46,8 +278,8 @@
       \strng{authorbibnamehash}{2269d5c96a84614800ec2fbce950cac4}
       \strng{authornamehash}{2269d5c96a84614800ec2fbce950cac4}
       \strng{authorfullhash}{2269d5c96a84614800ec2fbce950cac4}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Stryer Biochemie}
@@ -55,49 +287,68 @@
       \field{pages}{950\bibrangedash 964}
       \range{pages}{15}
     \endentry
-    \entry{cooper2017genome}{article}{}
-      \name{author}{4}{}{%
-        {{hash=508712c99e43e47614e7355920c79ffc}{%
-           family={Cooper},
-           familyi={C\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=ac4017b40d7880239a6a765952f4bb51}{%
-           family={Ding},
-           familyi={D\bibinitperiod},
-           given={Yi},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=3f9abf3b7a0282e44453eaaa4da84a1b}{%
-           family={Song},
-           familyi={S\bibinitperiod},
-           given={Jiuzhou},
-           giveni={J\bibinitperiod}}}%
-        {{hash=2cc20dd28c42453a763818321b9142dc}{%
-           family={Zhao},
-           familyi={Z\bibinitperiod},
-           given={Keji},
-           giveni={K\bibinitperiod}}}%
+    \entry{lomvardas2002opening}{article}{}
+      \name{author}{2}{}{%
+        {{hash=942abe9cf4f1540323e7e0e6bd55cd84}{%
+           family={Lomvardas},
+           familyi={L\bibinitperiod},
+           given={Stavros},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f65213bc47cffe55531a915ea4d48fa3}{%
+           family={Thanos},
+           familyi={T\bibinitperiod},
+           given={Dimitris},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{cd2ac279d73e97878e7d91f41a123fb3}
+      \strng{fullhash}{cd2ac279d73e97878e7d91f41a123fb3}
+      \strng{bibnamehash}{cd2ac279d73e97878e7d91f41a123fb3}
+      \strng{authorbibnamehash}{cd2ac279d73e97878e7d91f41a123fb3}
+      \strng{authornamehash}{cd2ac279d73e97878e7d91f41a123fb3}
+      \strng{authorfullhash}{cd2ac279d73e97878e7d91f41a123fb3}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecular cell}
+      \field{number}{2}
+      \field{title}{Opening chromatin}
+      \field{volume}{9}
+      \field{year}{2002}
+      \field{pages}{209\bibrangedash 211}
+      \range{pages}{3}
+    \endentry
+    \entry{henikoff2008nucleosome}{article}{}
+      \name{author}{1}{}{%
+        {{hash=655a0d95ff8b3f41ffc65b3426fef81a}{%
+           family={Henikoff},
+           familyi={H\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Nature Publishing Group}%
       }
-      \strng{namehash}{47a1f756440a62224991a4da8d81adb3}
-      \strng{fullhash}{11d3a25f6fe9ff42207da0903f9254af}
-      \strng{bibnamehash}{47a1f756440a62224991a4da8d81adb3}
-      \strng{authorbibnamehash}{47a1f756440a62224991a4da8d81adb3}
-      \strng{authornamehash}{47a1f756440a62224991a4da8d81adb3}
-      \strng{authorfullhash}{11d3a25f6fe9ff42207da0903f9254af}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \strng{namehash}{655a0d95ff8b3f41ffc65b3426fef81a}
+      \strng{fullhash}{655a0d95ff8b3f41ffc65b3426fef81a}
+      \strng{bibnamehash}{655a0d95ff8b3f41ffc65b3426fef81a}
+      \strng{authorbibnamehash}{655a0d95ff8b3f41ffc65b3426fef81a}
+      \strng{authornamehash}{655a0d95ff8b3f41ffc65b3426fef81a}
+      \strng{authorfullhash}{655a0d95ff8b3f41ffc65b3426fef81a}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{nature protocols}
-      \field{number}{11}
-      \field{title}{Genome-wide mapping of DNase I hypersensitive sites in rare cell populations using single-cell DNase sequencing}
-      \field{volume}{12}
-      \field{year}{2017}
-      \field{pages}{2342}
-      \range{pages}{1}
+      \field{journaltitle}{Nature Reviews Genetics}
+      \field{number}{1}
+      \field{title}{Nucleosome destabilization in the epigenetic regulation of gene expression}
+      \field{volume}{9}
+      \field{year}{2008}
+      \field{pages}{15\bibrangedash 26}
+      \range{pages}{12}
     \endentry
     \entry{bannister2011regulation}{article}{}
       \name{author}{2}{}{%
@@ -121,8 +372,8 @@
       \strng{authorbibnamehash}{26112ee2bfe2be294bd57912a2ad9ed6}
       \strng{authornamehash}{26112ee2bfe2be294bd57912a2ad9ed6}
       \strng{authorfullhash}{26112ee2bfe2be294bd57912a2ad9ed6}
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Cell research}
@@ -160,8 +411,8 @@
       \strng{authorbibnamehash}{67d4ed9e1c7d27d74415fe0ef5190ff7}
       \strng{authornamehash}{67d4ed9e1c7d27d74415fe0ef5190ff7}
       \strng{authorfullhash}{67d4ed9e1c7d27d74415fe0ef5190ff7}
-      \field{sortinit}{7}
-      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Epigenetics}
@@ -229,8 +480,8 @@
       \strng{authorbibnamehash}{2059b0cd0e10c72bf188e944e266f9cc}
       \strng{authornamehash}{2059b0cd0e10c72bf188e944e266f9cc}
       \strng{authorfullhash}{c31f7cdfb0b2c2a0fca9bf4d31855103}
-      \field{sortinit}{7}
-      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Molecular cell}
@@ -240,6 +491,45 @@
       \field{year}{2006}
       \field{pages}{383\bibrangedash 394}
       \range{pages}{12}
+    \endentry
+    \entry{zhou2009histone}{article}{}
+      \name{author}{3}{}{%
+        {{hash=bc687710472575b77eda91302b37daa8}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Wenlai},
+           giveni={W\bibinitperiod}}}%
+        {{hash=29355ae0a7466d4dde7cac0d16500ff5}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiangting},
+           giveni={X\bibinitperiod}}}%
+        {{hash=5cac82db517b1a4bdadcfccd4bd21fff}{%
+           family={Rosenfeld},
+           familyi={R\bibinitperiod},
+           given={Michael\bibnamedelima G},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e23dd6b1b3b4baec779c78f243b07986}
+      \strng{fullhash}{e23dd6b1b3b4baec779c78f243b07986}
+      \strng{bibnamehash}{e23dd6b1b3b4baec779c78f243b07986}
+      \strng{authorbibnamehash}{e23dd6b1b3b4baec779c78f243b07986}
+      \strng{authornamehash}{e23dd6b1b3b4baec779c78f243b07986}
+      \strng{authorfullhash}{e23dd6b1b3b4baec779c78f243b07986}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The international journal of biochemistry \& cell biology}
+      \field{number}{1}
+      \field{title}{Histone H2A ubiquitination in transcriptional regulation and DNA damage repair}
+      \field{volume}{41}
+      \field{year}{2009}
+      \field{pages}{12\bibrangedash 15}
+      \range{pages}{4}
     \endentry
     \entry{zhang2015interplay}{article}{}
       \name{author}{3}{}{%
@@ -265,8 +555,8 @@
       \strng{authorbibnamehash}{587c464990cf369b1297aefcfe70d12a}
       \strng{authornamehash}{587c464990cf369b1297aefcfe70d12a}
       \strng{authorfullhash}{587c464990cf369b1297aefcfe70d12a}
-      \field{sortinit}{8}
-      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{EMBO reports}
@@ -309,8 +599,8 @@
       \strng{authorbibnamehash}{8886a8c3c3dc5b7ff6c5a9375ca7ff60}
       \strng{authornamehash}{8886a8c3c3dc5b7ff6c5a9375ca7ff60}
       \strng{authorfullhash}{b50db761be0211f7e80ad58792dac447}
-      \field{sortinit}{8}
-      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature structural \& molecular biology}
@@ -358,8 +648,8 @@
       \strng{authorbibnamehash}{11b5199873071c2f4ee30de32544d88c}
       \strng{authornamehash}{11b5199873071c2f4ee30de32544d88c}
       \strng{authorfullhash}{522e6f4a675f152250b66f43a8f82264}
-      \field{sortinit}{8}
-      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of the American Chemical Society}
@@ -392,8 +682,8 @@
       \strng{authorbibnamehash}{502efb1fb8f8c93352228f9a0b9e5d44}
       \strng{authornamehash}{502efb1fb8f8c93352228f9a0b9e5d44}
       \strng{authorfullhash}{502efb1fb8f8c93352228f9a0b9e5d44}
-      \field{sortinit}{9}
-      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{FEBS letters}
@@ -426,8 +716,8 @@
       \strng{authorbibnamehash}{d91c641d81168c2abb4bc1e24dcaa0fe}
       \strng{authornamehash}{d91c641d81168c2abb4bc1e24dcaa0fe}
       \strng{authorfullhash}{d91c641d81168c2abb4bc1e24dcaa0fe}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Development}
@@ -502,8 +792,8 @@
       \strng{authorbibnamehash}{ba956b89fb04707eb96c0d18dfa7f3f2}
       \strng{authornamehash}{ba956b89fb04707eb96c0d18dfa7f3f2}
       \strng{authorfullhash}{4f2b0de097bb47e3bd2b793ffaca0579}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Scientific reports}
@@ -546,8 +836,8 @@
       \strng{authorbibnamehash}{061813d892a8b61e13f77146bd017a3e}
       \strng{authornamehash}{061813d892a8b61e13f77146bd017a3e}
       \strng{authorfullhash}{a43b28fd7ce18e43885eafdb57575d39}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Cell}
@@ -557,6 +847,300 @@
       \field{year}{2017}
       \field{pages}{34\bibrangedash 57}
       \range{pages}{24}
+    \endentry
+    \entry{Hoffmann2015BivalencyReview}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5ce58caae26e609c2de362a3ec18f1c7}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={Anke},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0f29b8fde367bbd85b75207b63cf53a9}{%
+           family={Zimmermann},
+           familyi={Z\bibinitperiod},
+           given={Christoph\bibnamedelima A.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=50170d51b8becf1c6ed4e06d5bf4fc83}{%
+           family={Spengler},
+           familyi={S\bibinitperiod},
+           given={Dietmar},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{fb7bcff18b6fac063aef785540e2c947}
+      \strng{fullhash}{fb7bcff18b6fac063aef785540e2c947}
+      \strng{bibnamehash}{fb7bcff18b6fac063aef785540e2c947}
+      \strng{authorbibnamehash}{fb7bcff18b6fac063aef785540e2c947}
+      \strng{authornamehash}{fb7bcff18b6fac063aef785540e2c947}
+      \strng{authorfullhash}{fb7bcff18b6fac063aef785540e2c947}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1662-5153}
+      \field{journaltitle}{Frontiers in Behavioral Neuroscience}
+      \field{title}{Molecular epigenetic switches in neurodevelopment in health and disease}
+      \field{volume}{9}
+      \field{year}{2015}
+      \field{pages}{120}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fnbeh.2015.00120
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/article/10.3389/fnbeh.2015.00120
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/article/10.3389/fnbeh.2015.00120
+      \endverb
+    \endentry
+    \entry{Bernstein2006BivalentESC}{article}{}
+      \name{author}{15}{}{%
+        {{hash=b1492fc9a6dad81cfb914cab0699b4cd}{%
+           family={Bernstein},
+           familyi={B\bibinitperiod},
+           given={Bradley\bibnamedelima E.},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=0d6b974a93a2e5f003bac64b3229df82}{%
+           family={Mikkelsen},
+           familyi={M\bibinitperiod},
+           given={Tarjei\bibnamedelima S.},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=80995e442d7d89d8247316162a3e1945}{%
+           family={Xie},
+           familyi={X\bibinitperiod},
+           given={Xiaohui},
+           giveni={X\bibinitperiod}}}%
+        {{hash=e512a8b651c06bb87de83f26182d41ed}{%
+           family={Kamal},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d965d68c8b9be620d1dae49f184ba68e}{%
+           family={Huebert},
+           familyi={H\bibinitperiod},
+           given={Dana\bibnamedelima J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=42710b70d215be743bebaab5f130ac03}{%
+           family={Cuff},
+           familyi={C\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=94eb1434c985c7d7a922693b8098da23}{%
+           family={Fry},
+           familyi={F\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=82b6c225081c89fe157cc081dd660444}{%
+           family={Meissner},
+           familyi={M\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b0411e17e26c22c4ca755470e12824f3}{%
+           family={Wernig},
+           familyi={W\bibinitperiod},
+           given={Marius},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5745a4223a49af7229b13e4c922ad628}{%
+           family={Plath},
+           familyi={P\bibinitperiod},
+           given={Kathrin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=8818ffbe614f33195f950be26ec63ca4}{%
+           family={Jaenisch},
+           familyi={J\bibinitperiod},
+           given={Rudolf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=899d20470b1ea9c07a8dac89778966ad}{%
+           family={Wagschal},
+           familyi={W\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bb9ad5af6c593612ee1bc08f663f491f}{%
+           family={Feil},
+           familyi={F\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=c6d6a50419851039da75e664876a7936}{%
+           family={Schreiber},
+           familyi={S\bibinitperiod},
+           given={Stuart\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=b16d2d23aa89e27b5cb22911d6395e73}{%
+           family={Lander},
+           familyi={L\bibinitperiod},
+           given={Eric\bibnamedelima S.},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{6966092e91cbac7baa065cc92004b9f4}
+      \strng{fullhash}{443bc38bb930ca0ceae4b98c68c39cde}
+      \strng{bibnamehash}{6966092e91cbac7baa065cc92004b9f4}
+      \strng{authorbibnamehash}{6966092e91cbac7baa065cc92004b9f4}
+      \strng{authornamehash}{6966092e91cbac7baa065cc92004b9f4}
+      \strng{authorfullhash}{443bc38bb930ca0ceae4b98c68c39cde}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Summary The most highly conserved noncoding elements (HCNEs) in mammalian genomes cluster within regions enriched for genes encoding developmentally important transcription factors (TFs). This suggests that HCNE-rich regions may contain key regulatory controls involved in development. We explored this by examining histone methylation in mouse embryonic stem (ES) cells across 56 large HCNE-rich loci. We identified a specific modification pattern, termed “bivalent domains,” consisting of large regions of H3 lysine 27 methylation harboring smaller regions of H3 lysine 4 methylation. Bivalent domains tend to coincide with TF genes expressed at low levels. We propose that bivalent domains silence developmental genes in ES cells while keeping them poised for activation. We also found striking correspondences between genome sequence and histone methylation in ES cells, which become notably weaker in differentiated cells. These results highlight the importance of DNA sequence in defining the initial epigenetic landscape and suggest a novel chromatin-based mechanism for maintaining pluripotency.}
+      \field{issn}{0092-8674}
+      \field{journaltitle}{Cell}
+      \field{number}{2}
+      \field{title}{A Bivalent Chromatin Structure Marks Key Developmental Genes in Embryonic Stem Cells}
+      \field{volume}{125}
+      \field{year}{2006}
+      \field{pages}{315\bibrangedash 326}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.cell.2006.02.041
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0092867406003801
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0092867406003801
+      \endverb
+    \endentry
+    \entry{johnson2021quantifying}{article}{}
+      \name{author}{10}{}{%
+        {{hash=a4b4179b3b119ecc5fcdd77d04413aaf}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Margaret\bibnamedelima E},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=e5456eda955158e9e769ae04109a2604}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Athena},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fa7cd19e945913638a215e36f5c75bbe}{%
+           family={Faeder},
+           familyi={F\bibinitperiod},
+           given={James\bibnamedelima R},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=1c151466efa35f595164d29d3c7f3703}{%
+           family={Henning},
+           familyi={H\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a27a82e1c7799f116c75d89ea83dd8fb}{%
+           family={Moraru},
+           familyi={M\bibinitperiod},
+           given={Ion\bibnamedelima I},
+           giveni={I\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=54bac1ff866afaf174e3dc7f34b05a6a}{%
+           family={Meier-Schellersheim},
+           familyi={M\bibinithyphendelim S\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=161350008b2f534e9ddcf6bb6f6029f7}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Robert\bibnamedelima F},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=28c01f963e07f7de728a4523630c51e5}{%
+           family={Prüstel},
+           familyi={P\bibinitperiod},
+           given={Thorsten},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0cba24a3d48fde3b99780efa732763f2}{%
+           family={Theriot},
+           familyi={T\bibinitperiod},
+           given={Julie\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c6832ab19b82f0b9c742096e12bf9a08}{%
+           family={Uhrmacher},
+           familyi={U\bibinitperiod},
+           given={Adelinde\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Am Soc Cell Biol}%
+      }
+      \strng{namehash}{6b001fe0ac4f9d2bcf3f473363d1ae6f}
+      \strng{fullhash}{8416edff2ea01128ba47a0f6b2385ab2}
+      \strng{bibnamehash}{6b001fe0ac4f9d2bcf3f473363d1ae6f}
+      \strng{authorbibnamehash}{6b001fe0ac4f9d2bcf3f473363d1ae6f}
+      \strng{authornamehash}{6b001fe0ac4f9d2bcf3f473363d1ae6f}
+      \strng{authorfullhash}{8416edff2ea01128ba47a0f6b2385ab2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecular Biology of the Cell}
+      \field{title}{Quantifying the Roles of Space and Stochasticity in Computer Simulations for Cell Biology and Cellular Biochemistry}
+      \field{year}{2021}
+      \field{pages}{mbc\bibrangedash E20}
+      \range{pages}{-1}
+    \endentry
+    \entry{Ge2013}{inbook}{}
+      \name{author}{2}{}{%
+        {{hash=f3376597fd62555141642bdabd17bd49}{%
+           family={Ge},
+           familyi={G\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=176e67dd520f18f4fc09f7eaf0b9ff82}{%
+           family={Qian},
+           familyi={Q\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=fb73f96a5073581713097d4d26bc5784}{%
+           family={Dubitzky},
+           familyi={D\bibinitperiod},
+           given={Werner},
+           giveni={W\bibinitperiod}}}%
+        {{hash=8660f4c941543e0853ee5de75cf0a6d1}{%
+           family={Wolkenhauer},
+           familyi={W\bibinitperiod},
+           given={Olaf},
+           giveni={O\bibinitperiod}}}%
+        {{hash=b6f5acb640018246430d4102405f166f}{%
+           family={Cho},
+           familyi={C\bibinitperiod},
+           given={Kwang-Hyun},
+           giveni={K\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=72d8b7d471c231cdf63a5acb4cb1b303}{%
+           family={Yokota},
+           familyi={Y\bibinitperiod},
+           given={Hiroki},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY}%
+      }
+      \list{publisher}{1}{%
+        {Springer New York}%
+      }
+      \strng{namehash}{23b415187d6647b363b7cb184f2a954e}
+      \strng{fullhash}{23b415187d6647b363b7cb184f2a954e}
+      \strng{bibnamehash}{23b415187d6647b363b7cb184f2a954e}
+      \strng{authorbibnamehash}{23b415187d6647b363b7cb184f2a954e}
+      \strng{authornamehash}{23b415187d6647b363b7cb184f2a954e}
+      \strng{authorfullhash}{23b415187d6647b363b7cb184f2a954e}
+      \strng{editorbibnamehash}{272fd36cd07179fe44794db1b2da4833}
+      \strng{editornamehash}{272fd36cd07179fe44794db1b2da4833}
+      \strng{editorfullhash}{ada8f9569981fef2c5e845caea4d8c3a}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Encyclopedia of Systems Biology}
+      \field{isbn}{978-1-4419-9863-7}
+      \field{title}{Chemical Master Equation}
+      \field{year}{2013}
+      \field{pages}{396\bibrangedash 399}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1007/978-1-4419-9863-7_278
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-1-4419-9863-7_278
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-1-4419-9863-7_278
+      \endverb
     \endentry
     \entry{lemons1908paper}{article}{}
       \name{author}{3}{}{%
@@ -582,8 +1166,8 @@
       \strng{authorbibnamehash}{b8f8db8c014c3388b44fb9c81e895413}
       \strng{authornamehash}{b8f8db8c014c3388b44fb9c81e895413}
       \strng{authorfullhash}{b8f8db8c014c3388b44fb9c81e895413}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{CR Acad. Sci.(Paris)}
@@ -610,8 +1194,8 @@
       \strng{authorbibnamehash}{afab655ed81b95d3a4163f162c399ac5}
       \strng{authornamehash}{afab655ed81b95d3a4163f162c399ac5}
       \strng{authorfullhash}{afab655ed81b95d3a4163f162c399ac5}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Histone Driven Cell Differentiation}
@@ -636,8 +1220,8 @@
       \strng{authornamehash}{1bf42ebd509a3dc7c57325afbcd733fa}
       \strng{authorfullhash}{1bf42ebd509a3dc7c57325afbcd733fa}
       \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of computational physics}
@@ -666,8 +1250,8 @@
       \strng{authornamehash}{1bf42ebd509a3dc7c57325afbcd733fa}
       \strng{authorfullhash}{1bf42ebd509a3dc7c57325afbcd733fa}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Physica A: Statistical Mechanics and its Applications}
@@ -676,36 +1260,6 @@
       \field{volume}{188}
       \field{year}{1992}
       \field{pages}{404\bibrangedash 425}
-      \range{pages}{22}
-    \endentry
-    \entry{gillespie1977exact}{article}{}
-      \name{author}{1}{}{%
-        {{hash=1bf42ebd509a3dc7c57325afbcd733fa}{%
-           family={Gillespie},
-           familyi={G\bibinitperiod},
-           given={Daniel\bibnamedelima T},
-           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {ACS Publications}%
-      }
-      \strng{namehash}{1bf42ebd509a3dc7c57325afbcd733fa}
-      \strng{fullhash}{1bf42ebd509a3dc7c57325afbcd733fa}
-      \strng{bibnamehash}{1bf42ebd509a3dc7c57325afbcd733fa}
-      \strng{authorbibnamehash}{1bf42ebd509a3dc7c57325afbcd733fa}
-      \strng{authornamehash}{1bf42ebd509a3dc7c57325afbcd733fa}
-      \strng{authorfullhash}{1bf42ebd509a3dc7c57325afbcd733fa}
-      \field{extraname}{3}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{The journal of physical chemistry}
-      \field{number}{25}
-      \field{title}{Exact stochastic simulation of coupled chemical reactions}
-      \field{volume}{81}
-      \field{year}{1977}
-      \field{pages}{2340\bibrangedash 2361}
       \range{pages}{22}
     \endentry
     \entry{arnold2013chromatin}{article}{}
@@ -735,8 +1289,8 @@
       \strng{authorbibnamehash}{6f67399519f3cd4a8ee7b581c4cc4bea}
       \strng{authornamehash}{6f67399519f3cd4a8ee7b581c4cc4bea}
       \strng{authorfullhash}{6f67399519f3cd4a8ee7b581c4cc4bea}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of theoretical biology}
@@ -746,140 +1300,29 @@
       \field{pages}{61\bibrangedash 74}
       \range{pages}{14}
     \endentry
-    \entry{Stadler2002}{inbook}{}
+    \entry{sneppen2014models}{book}{}
       \name{author}{1}{}{%
-        {{hash=9982debdce05bebbf7a7f24842a44650}{%
-           family={Stadler},
+        {{hash=f5b8567831dadb725654bc06718f8caa}{%
+           family={Sneppen},
            familyi={S\bibinitperiod},
-           given={Peter\bibnamedelima F.},
-           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=9e4b72e882dada7e4185648afecd40c2}{%
-           family={Lässig},
-           familyi={L\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod}}}%
-        {{hash=f857c7518a6756c75f8643df7645a5d2}{%
-           family={Valleriani},
-           familyi={V\bibinitperiod},
-           given={Angelo},
-           giveni={A\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Berlin, Heidelberg}%
+           given={Kim},
+           giveni={K\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Springer Berlin Heidelberg}%
+        {Cambridge University Press}%
       }
-      \strng{namehash}{9982debdce05bebbf7a7f24842a44650}
-      \strng{fullhash}{9982debdce05bebbf7a7f24842a44650}
-      \strng{bibnamehash}{9982debdce05bebbf7a7f24842a44650}
-      \strng{authorbibnamehash}{9982debdce05bebbf7a7f24842a44650}
-      \strng{authornamehash}{9982debdce05bebbf7a7f24842a44650}
-      \strng{authorfullhash}{9982debdce05bebbf7a7f24842a44650}
-      \strng{editorbibnamehash}{1f216e3c5d6161c98eb7fdae0436059a}
-      \strng{editornamehash}{1f216e3c5d6161c98eb7fdae0436059a}
-      \strng{editorfullhash}{1f216e3c5d6161c98eb7fdae0436059a}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \strng{namehash}{f5b8567831dadb725654bc06718f8caa}
+      \strng{fullhash}{f5b8567831dadb725654bc06718f8caa}
+      \strng{bibnamehash}{f5b8567831dadb725654bc06718f8caa}
+      \strng{authorbibnamehash}{f5b8567831dadb725654bc06718f8caa}
+      \strng{authornamehash}{f5b8567831dadb725654bc06718f8caa}
+      \strng{authorfullhash}{f5b8567831dadb725654bc06718f8caa}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Fitness landscapes are a valuable concept in evolutionary biology, combinatorial optimization, and the physics of disordered systems. A fitness landscape is a mapping from a configuration space that is equipped with some notion of adjacency, nearness, distance or accessibility, into the real numbers. Landscape theory has emerged as an attempt to devise suitable mathematical structures for describing the ``static'' properties of landscapes as well as their influence on the dynamics of adaptation. This chapter gives a brief overview on recent developments in this area, focusing on ``geometrical'' properties of landscapes.}
-      \field{booktitle}{Biological Evolution and Statistical Physics}
-      \field{isbn}{978-3-540-45692-6}
-      \field{title}{Fitness landscapes}
-      \field{year}{2002}
-      \field{pages}{183\bibrangedash 204}
-      \range{pages}{22}
-      \verb{doi}
-      \verb 10.1007/3-540-45692-9_10
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/3-540-45692-9_10
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/3-540-45692-9_10
-      \endverb
-    \endentry
-    \entry{waddington2014strategy}{book}{}
-      \name{author}{1}{}{%
-        {{hash=48709a907699be7fd0ad01477c56908e}{%
-           family={Waddington},
-           familyi={W\bibinitperiod},
-           given={Conrad\bibnamedelima Hal},
-           giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Routledge}%
-      }
-      \strng{namehash}{48709a907699be7fd0ad01477c56908e}
-      \strng{fullhash}{48709a907699be7fd0ad01477c56908e}
-      \strng{bibnamehash}{48709a907699be7fd0ad01477c56908e}
-      \strng{authorbibnamehash}{48709a907699be7fd0ad01477c56908e}
-      \strng{authornamehash}{48709a907699be7fd0ad01477c56908e}
-      \strng{authorfullhash}{48709a907699be7fd0ad01477c56908e}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The strategy of the genes}
+      \field{title}{Models of life}
       \field{year}{2014}
-    \endentry
-    \entry{epilandscapeDefEmbryo}{inreference}{}
-      \list{publisher}{1}{%
-        {Navis, Adam R.}%
-      }
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Embryo Project Encyclopedia}
-      \field{title}{Epigenetic Landscape}
-      \field{urlday}{16}
-      \field{urlmonth}{3}
-      \field{urlyear}{2021}
-      \field{year}{2007}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb http://embryo.asu.edu/handle/10776/1687
-      \endverb
-      \verb{url}
-      \verb http://embryo.asu.edu/handle/10776/1687
-      \endverb
-    \endentry
-    \entry{blender}{manual}{}
-      \name{author}{1}{}{%
-        {{hash=3637fc94258549b9822f36e1d3349483}{%
-           family={Community},
-           familyi={C\bibinitperiod},
-           given={Blender\bibnamedelima Online},
-           giveni={B\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Stichting Blender Foundation, Amsterdam}%
-      }
-      \list{organization}{1}{%
-        {Blender Foundation}%
-      }
-      \strng{namehash}{3637fc94258549b9822f36e1d3349483}
-      \strng{fullhash}{3637fc94258549b9822f36e1d3349483}
-      \strng{bibnamehash}{3637fc94258549b9822f36e1d3349483}
-      \strng{authorbibnamehash}{3637fc94258549b9822f36e1d3349483}
-      \strng{authornamehash}{3637fc94258549b9822f36e1d3349483}
-      \strng{authorfullhash}{3637fc94258549b9822f36e1d3349483}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Blender — a 3D modelling and rendering package}
-      \field{year}{2018}
-      \verb{urlraw}
-      \verb http://www.blender.org
-      \endverb
-      \verb{url}
-      \verb http://www.blender.org
-      \endverb
     \endentry
     \entry{dodd2011barriers}{article}{}
       \name{author}{2}{}{%
@@ -903,8 +1346,8 @@
       \strng{authorbibnamehash}{4ff4b79a12881d0b7192a23b175e938e}
       \strng{authornamehash}{4ff4b79a12881d0b7192a23b175e938e}
       \strng{authorfullhash}{4ff4b79a12881d0b7192a23b175e938e}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of molecular biology}
@@ -937,8 +1380,8 @@
       \strng{authorbibnamehash}{aa2fc50488a5f1330211db3af4638a28}
       \strng{authornamehash}{aa2fc50488a5f1330211db3af4638a28}
       \strng{authorfullhash}{aa2fc50488a5f1330211db3af4638a28}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nature communications}
@@ -948,30 +1391,6 @@
       \field{year}{2019}
       \field{pages}{1\bibrangedash 18}
       \range{pages}{18}
-    \endentry
-    \entry{sneppen2014models}{book}{}
-      \name{author}{1}{}{%
-        {{hash=f5b8567831dadb725654bc06718f8caa}{%
-           family={Sneppen},
-           familyi={S\bibinitperiod},
-           given={Kim},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Cambridge University Press}%
-      }
-      \strng{namehash}{f5b8567831dadb725654bc06718f8caa}
-      \strng{fullhash}{f5b8567831dadb725654bc06718f8caa}
-      \strng{bibnamehash}{f5b8567831dadb725654bc06718f8caa}
-      \strng{authorbibnamehash}{f5b8567831dadb725654bc06718f8caa}
-      \strng{authornamehash}{f5b8567831dadb725654bc06718f8caa}
-      \strng{authorfullhash}{f5b8567831dadb725654bc06718f8caa}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Models of life}
-      \field{year}{2014}
     \endentry
     \entry{3dodd2007theoretical}{article}{}
       \name{author}{4}{}{%
@@ -1005,8 +1424,9 @@
       \strng{authorbibnamehash}{b5eb9f326a90d9e33da9ea8a722f0c96}
       \strng{authornamehash}{b5eb9f326a90d9e33da9ea8a722f0c96}
       \strng{authorfullhash}{74d3d67519990e5d010c7b81b7f828de}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Cell}
@@ -1039,8 +1459,8 @@
       \strng{authorbibnamehash}{d31b2eb81a5f35968734c71990d2de6b}
       \strng{authornamehash}{d31b2eb81a5f35968734c71990d2de6b}
       \strng{authorfullhash}{d31b2eb81a5f35968734c71990d2de6b}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Physical biology}
@@ -1083,8 +1503,8 @@
       \strng{authorbibnamehash}{8115af72d58b420c3ec7a185a11caed1}
       \strng{authornamehash}{8115af72d58b420c3ec7a185a11caed1}
       \strng{authorfullhash}{6c4737840718c47f5265a85d903b5d4b}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Physical biology}
@@ -1127,8 +1547,8 @@
       \strng{authorbibnamehash}{9152eafd19798c60ed5baf801e0a509f}
       \strng{authornamehash}{9152eafd19798c60ed5baf801e0a509f}
       \strng{authorfullhash}{fac7e15dbdceb3a3694b786cea957fe4}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of theoretical biology}
@@ -1139,12 +1559,57 @@
       \field{pages}{112\bibrangedash 120}
       \range{pages}{9}
     \endentry
+    \entry{dodd2007theoretical}{article}{}
+      \name{author}{4}{}{%
+        {{hash=703d92f1125c73b9b057d5c04e102af0}{%
+           family={Dodd},
+           familyi={D\bibinitperiod},
+           given={Ian\bibnamedelima B},
+           giveni={I\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=883df11079eb4284ffd657e04e5e6d2e}{%
+           family={Micheelsen},
+           familyi={M\bibinitperiod},
+           given={Mille\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f5b8567831dadb725654bc06718f8caa}{%
+           family={Sneppen},
+           familyi={S\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod}}}%
+        {{hash=109ed14df6309a1531c577113b7792d3}{%
+           family={Thon},
+           familyi={T\bibinitperiod},
+           given={Geneviéve},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b5eb9f326a90d9e33da9ea8a722f0c96}
+      \strng{fullhash}{dd685ce1e96c58a14ee91783258cf3c6}
+      \strng{bibnamehash}{b5eb9f326a90d9e33da9ea8a722f0c96}
+      \strng{authorbibnamehash}{b5eb9f326a90d9e33da9ea8a722f0c96}
+      \strng{authornamehash}{b5eb9f326a90d9e33da9ea8a722f0c96}
+      \strng{authorfullhash}{dd685ce1e96c58a14ee91783258cf3c6}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cell}
+      \field{number}{4}
+      \field{title}{Theoretical analysis of epigenetic cell memory by nucleosome modification}
+      \field{volume}{129}
+      \field{year}{2007}
+      \field{pages}{813\bibrangedash 822}
+      \range{pages}{10}
+    \endentry
     \entry{cooperativityDefBritannica}{inreference}{}
       \list{publisher}{1}{%
         {Encyclopaedia Britannica}%
       }
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{labeltitlesource}{title}
       \field{booktitle}{{}}
       \field{title}{Cooperativity}
@@ -1160,6 +1625,40 @@
       \verb{url}
       \verb https://www.britannica.com/science/cooperativity
       \endverb
+    \endentry
+    \entry{gomez2019epigenetic}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a0007aaec050bdf533d2bb3d59c51bac}{%
+           family={Gómez-Schiavon},
+           familyi={G\bibinithyphendelim S\bibinitperiod},
+           given={Mariana},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a0d2667152c69aca5cd3d579f861fe7a}{%
+           family={Buchler},
+           familyi={B\bibinitperiod},
+           given={Nicolas\bibnamedelima E},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science San Francisco, CA USA}%
+      }
+      \strng{namehash}{a6d1e34c361139fa289c6ad301df0132}
+      \strng{fullhash}{a6d1e34c361139fa289c6ad301df0132}
+      \strng{bibnamehash}{a6d1e34c361139fa289c6ad301df0132}
+      \strng{authorbibnamehash}{a6d1e34c361139fa289c6ad301df0132}
+      \strng{authornamehash}{a6d1e34c361139fa289c6ad301df0132}
+      \strng{authorfullhash}{a6d1e34c361139fa289c6ad301df0132}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS computational biology}
+      \field{number}{10}
+      \field{title}{Epigenetic switching as a strategy for quick adaptation while attenuating biochemical noise}
+      \field{volume}{15}
+      \field{year}{2019}
+      \field{pages}{e1007364}
+      \range{pages}{-1}
     \endentry
     \entry{Krecké2021}{misc}{}
       \name{author}{1}{}{%
@@ -1178,14 +1677,64 @@
       \strng{authorbibnamehash}{9936aebb104c56133066eae5291c920b}
       \strng{authornamehash}{9936aebb104c56133066eae5291c920b}
       \strng{authorfullhash}{9936aebb104c56133066eae5291c920b}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{extraname}{1}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://github.com/mk36fyvy/MastersThesis_Calculations}}
       \field{journaltitle}{GitHub repository}
-      \field{title}{EpiDynaST simulation files for Masters Thesis}
+      \field{title}{Simulation data and scripts for Master's Thesis}
       \field{year}{2021}
+    \endentry
+    \entry{Tanner2000HATKinetics}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e7ecf1fb7eb855db1d434a782265f45b}{%
+           family={Tanner},
+           familyi={T\bibinitperiod},
+           given={Kirk\bibnamedelima G.},
+           giveni={K\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=57dba9ca6e719787a4422dbf92d634c2}{%
+           family={Langer},
+           familyi={L\bibinitperiod},
+           given={Michael\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=a3daf34c5a32ee373f3ff1a40781755e}{%
+           family={Denu},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{688c804e1fcb932d9e080bb5bd642f91}
+      \strng{fullhash}{688c804e1fcb932d9e080bb5bd642f91}
+      \strng{bibnamehash}{688c804e1fcb932d9e080bb5bd642f91}
+      \strng{authorbibnamehash}{688c804e1fcb932d9e080bb5bd642f91}
+      \strng{authornamehash}{688c804e1fcb932d9e080bb5bd642f91}
+      \strng{authorfullhash}{688c804e1fcb932d9e080bb5bd642f91}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biochemistry}
+      \field{note}{PMID: 11009610}
+      \field{number}{39}
+      \field{title}{Kinetic Mechanism of Human Histone Acetyltransferase P/CAF}
+      \field{volume}{39}
+      \field{year}{2000}
+      \field{pages}{11961\bibrangedash 11969}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1021/bi001272h
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/bi001272h
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/bi001272h
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/bi001272h
+      \endverb
     \endentry
     \entry{javierre2016lineage}{article}{}
       \true{moreauthor}
@@ -1251,8 +1800,8 @@
       \strng{authorbibnamehash}{3a0830aa70dfdfa9be44ba23376347e4}
       \strng{authornamehash}{3a0830aa70dfdfa9be44ba23376347e4}
       \strng{authorfullhash}{29bda6d6d24786852d94611fd228694c}
-      \field{sortinit}{4}
-      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Cell}
@@ -1262,6 +1811,64 @@
       \field{year}{2016}
       \field{pages}{1369\bibrangedash 1384}
       \range{pages}{16}
+    \endentry
+    \entry{Herbig2021EpiDynaST}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=83e499436be0596bcc30e574b2ee2120}{%
+           family={Herbig},
+           familyi={H\bibinitperiod},
+           given={Nico},
+           giveni={N\bibinitperiod}}}%
+        {{hash=324084ac0127790b9ea692c0226b64cd}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {GitHub}%
+      }
+      \strng{namehash}{6057b7be13ef3806dc28172088a57794}
+      \strng{fullhash}{6057b7be13ef3806dc28172088a57794}
+      \strng{bibnamehash}{6057b7be13ef3806dc28172088a57794}
+      \strng{authorbibnamehash}{6057b7be13ef3806dc28172088a57794}
+      \strng{authornamehash}{6057b7be13ef3806dc28172088a57794}
+      \strng{authorfullhash}{6057b7be13ef3806dc28172088a57794}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://gitlab.com/mathemathilda/histsim}}
+      \field{journaltitle}{GitHub repository}
+      \field{title}{EpiDynaST - Epigenetic Dynamics Simulation Tool}
+      \field{year}{2021}
+    \endentry
+    \entry{Krecké2021Thesis}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=9936aebb104c56133066eae5291c920b}{%
+           family={Krecké},
+           familyi={K\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {GitHub}%
+      }
+      \strng{namehash}{9936aebb104c56133066eae5291c920b}
+      \strng{fullhash}{9936aebb104c56133066eae5291c920b}
+      \strng{bibnamehash}{9936aebb104c56133066eae5291c920b}
+      \strng{authorbibnamehash}{9936aebb104c56133066eae5291c920b}
+      \strng{authornamehash}{9936aebb104c56133066eae5291c920b}
+      \strng{authorfullhash}{9936aebb104c56133066eae5291c920b}
+      \field{extraname}{2}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/mk36fyvy/MastersThesis}}
+      \field{journaltitle}{GitHub repository}
+      \field{title}{Master's Thesis LaTeX code}
+      \field{year}{2021}
     \endentry
   \enddatalist
 \endrefsection

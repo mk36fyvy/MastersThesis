@@ -1,0 +1,56 @@
+%
+            \begin{figure}[htpb!]
+                \centering
+                    \includeheatmap{Results/3.2_nonCyclString/shortRun_nonCyclic_highDiss_wCoopRem_4_bindingNumbers}
+                % \vspace{.3cm}
+                % \small
+                % \begin{minipage}{0.47\textwidth}
+                %     \hfill
+                %     \begin{tabular}{l l}
+                %         \hline
+                %         \textbf{\#} & \textbf{enzyme type} \\
+                %         \hline
+                %         $[\ 0]$: & coop. adder ac space=0 \\
+                %         $[\ 1]$: & coop. adder ac space=1 \\
+                %         $[\ 2]$: & coop. adder ac space=2 \\
+                %         $[\ 3]$: & coop. adder ac space=3 \\
+                %         $[\ 4]$: & coop. adder ac space=4 \\
+                %         $[\ 5]$: & coop. adder ac space=5 \\
+                %         $[\ 6]$: & coop. adder ac space=6 \\\hline
+                %         $[\ 7]$: & coop. adder me space=0 \\
+                %         $[\ 8]$: & coop. adder me space=1 \\
+                %         $[\ 9]$: & coop. adder me space=2 \\
+                %         $[10]$: & coop. adder me space=3 \\
+                %         $[11]$: & coop. adder me space=4 \\
+                %         $[12]$: & coop. adder me space=5 \\
+                %         $[13]$: & coop. adder me space=6 \\\hline
+                %         $[14]$: & coop. remover ac space=0 \\
+                %         $[15]$: & coop. remover ac space=1 \\
+                %     \end{tabular}
+                % \end{minipage}
+                % \hfill
+                % \begin{minipage}{0.47\textwidth}
+                %     \begin{tabular}{l l}
+                %         $[16]$: & coop. remover ac space=2 \\
+                %         $[17]$: & coop. remover ac space=3 \\
+                %         $[18]$: & coop. remover ac space=4 \\
+                %         $[19]$: & coop. remover ac space=5 \\
+                %         $[20]$: & coop. remover ac space=6 \\\hline
+                %         $[21]$: & coop. remover me space=0 \\
+                %         $[22]$: & coop. remover me space=1 \\
+                %         $[23]$: & coop. remover me space=2 \\
+                %         $[24]$: & coop. remover me space=3 \\
+                %         $[25]$: & coop. remover me space=4 \\
+                %         $[26]$: & coop. remover me space=5 \\
+                %         $[27]$: & coop. remover me space=6 \\\hline
+                %         $[28]$: & random adder ac \\
+                %         $[29]$: & random adder me \\
+                %         $[30]$: & random remover me \\
+                %         $[31]$: & random remover ac \\
+                %         \hline \hline
+                %     \end{tabular}
+                % \end{minipage}
+                \caption{\textbf{(a)} Heatmap depicting the absolute numbers of enzyme associations per enzyme (y-axis) and per nucleosome (x-axis) on the nucleosome string. The numbers were summed up over 5 simulations, where each run was simulated over 750,000 time steps on average. \textbf{(b)} Heatmap depicting the absolute numbers of enzyme associations per enzyme (y-axis) and per nucleosome (x-axis) on the nucleosome string. The numbers were summed up over 5 simulations, where each run was simulated over 750,000 time steps on average.}
+                \label{img:coopAssocBindingNumbers}
+            \end{figure}
+            %

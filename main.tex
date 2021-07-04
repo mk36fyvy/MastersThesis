@@ -7,7 +7,6 @@
 % !TeX spellcheck = en
 % !BIB program = biber
 
-% FIXME is punctuation always BEHIND source?
 
 \documentclass[master,english,smartquotes]{hgbthesis}
 % Permissible options in [..]:
@@ -17,11 +16,38 @@
 %%%----------------------------------------------------------
 
 \RequirePackage[utf8]{inputenc}		% Remove when using lualatex or xelatex entfernen!
+\RequirePackage[T1]{fontenc}
 \RequirePackage[version=4]{mhchem}
 \RequirePackage{mol2chemfig}
 \RequirePackage{chemfig}
 \RequirePackage{multirow}
 \RequirePackage{nicefrac}
+
+% Beautify xml files
+\RequirePackage{color}
+\RequirePackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\RequirePackage{listings}
+\makeatletter
+\def\lst@DelimPrint#1#2{%
+      #1%
+      \begingroup
+        \lst@mode\lst@nomode \lst@modetrue
+        #2\delimstyle\lst@XPrintToken%
+      \endgroup
+      \lst@ResetToken
+    \fi}
+\makeatother
+\newcommand\delimstyle{}
+
+\lstdefinelanguage{XMLnew}{
+  tag=**[s][\color{blue}\renewcommand\delimstyle{\color{black}}]<>,
+  commentstyle=\color{gray},
+  breaklines=true,
+  morestring=[b]",
+  morecomment=[s]{<!--}{-->},
+  keywordstyle=\color{orange},
+  stringstyle=\color{black},
+}[keywords,comments,strings,html]%
 
 %Make ((sub)sub)sections include their graphics without floating into next ((sub)sub)section.
 \usepackage{placeins}
@@ -49,14 +75,14 @@
 
 \programname{Bioinformatik}
 \placeofstudy{Leipzig}
-\dateofsubmission{2021}{05}{10}	% {YYYY}{MM}{DD} % TODO: set to correct date
+\dateofsubmission{2021}{07}{04}	% {YYYY}{MM}{DD}
 
-\advisor{Prof. Dr. Sonja Prohaska}	% optional
-\secondAdvisor{Dr. Christian Arnold}
+\advisor{Prof. Dr. Sonja Prohaska}
 
 \hyphenation{nuc-leo-some}
 \hyphenation{nuc-leo-somes}
 \hyphenation{pre-dom-in-ant}
+
 
 %\strictlicense		%%% restrictive license instead of Creative Commons (discouraged!)
 
@@ -79,11 +105,12 @@
 \mainmatter          			% main part (arabic page numbers)
 %%%----------------------------------------------------------
 
-\include{chapters/1theoreticalBackground}
-\include{chapters/2methods}
-\include{chapters/3results}
-\include{chapters/4discussion}
-\include{chapters/5outlook}
+\include{chapters/1biologicalBackground}
+\include{chapters/2theoreticalBackground}
+\include{chapters/3methods}
+\include{chapters/4results}
+\include{chapters/5discussion}
+\include{chapters/6outlook}
 
 %%%----------------------------------------------------------
 \appendix                                         % appendix
@@ -91,7 +118,7 @@
 
 \include{back/appendix_a}	% Run specifications
 \include{back/appendix_b}	% Additional runs
-% \include{back/appendix_c}	% chronological list of changes
+\include{back/appendix_c}	% Source Code
 % \include{back/appendix_d}	% source text of this document
 
 %%%----------------------------------------------------------
