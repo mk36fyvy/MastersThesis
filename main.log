@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.15)  4 JUL 2021 13:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.15)  4 JUL 2021 15:24
 entering extended mode
 **e:/Users/mikre/Dropbox/MasterThesis/Thesis/main.tex
 (e:/Users/mikre/Dropbox/MasterThesis/Thesis/main.tex
@@ -1267,7 +1267,7 @@ Package: placeins 2005/04/18  v 2.2
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
- (main.aux (chapters/1biologicalBackground.aux) (chapters/2theoreticalBackground.aux) (chapters/3methods.aux) (chapters/4results.aux) (chapters/5discussion.aux) (chapters/6outlook.aux) (back/appendix_a.aux) (back/appendix_b.aux) (back/appendix_c.aux) (back/printbox.aux))
+ (main.aux (chapters/1biologicalBackground.aux) (chapters/2theoreticalBackground.aux) (chapters/3methods.aux) (chapters/4results.aux) (chapters/5discussion.aux) (chapters/6outlook.aux) (back/appendix_a.aux) (back/appendix_b.aux) (back/appendix_c.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
@@ -2062,13 +2062,7 @@ Appendix C.
 
 
 
-] [58] [59] [60]
-\openout2 = `back/printbox.aux'.
-
- (back/printbox.tex) [61
-
-
-] (main.aux (chapters/1biologicalBackground.aux) (chapters/2theoreticalBackground.aux) (chapters/3methods.aux) (chapters/4results.aux) (chapters/5discussion.aux) (chapters/6outlook.aux) (back/appendix_a.aux) (back/appendix_b.aux) (back/appendix_c.aux) (back/printbox.aux))
+] [58] [59] [60] (main.aux (chapters/1biologicalBackground.aux) (chapters/2theoreticalBackground.aux) (chapters/3methods.aux) (chapters/4results.aux) (chapters/5discussion.aux) (chapters/6outlook.aux) (back/appendix_a.aux) (back/appendix_b.aux) (back/appendix_c.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: C41AA0F01C9596EE6CCE604697F9FCD4;9948.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -2076,17 +2070,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43978 strings out of 479663
- 831243 string characters out of 2873806
- 2240368 words of memory out of 3000000
- 59655 multiletter control sequences out of 15000+200000
- 499334 words of font info for 98 fonts, out of 3000000 for 9000
+ 43963 strings out of 479663
+ 830900 string characters out of 2873806
+ 2237521 words of memory out of 3000000
+ 59651 multiletter control sequences out of 15000+200000
+ 496353 words of font info for 97 fonts, out of 3000000 for 9000
  1146 hyphenation exceptions out of 8191
  122i,15n,141p,1350b,2319s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt9.pfb>
-Output written on main.pdf (67 pages, 7029426 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmtt9.pfb>
+Output written on main.pdf (66 pages, 7001330 bytes).
 PDF statistics:
- 2395 PDF objects out of 2487 (max. 8388607)
- 398 named destinations out of 1000 (max. 500000)
+ 2381 PDF objects out of 2487 (max. 8388607)
+ 396 named destinations out of 1000 (max. 500000)
  737 words of extra memory for PDF output out of 10000 (max. 10000000)
 
